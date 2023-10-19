@@ -3617,7 +3617,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 194.31 203.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4cc106e4-8f2b-425b-b9a7-d6764166adb7)
-    (property "Reference" "S4" (at 200.66 201.803 0)
+    (property "Reference" "S3" (at 200.66 201.803 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX_stab" (at 200.66 204.343 0)
@@ -3629,10 +3629,13 @@
     (property "Datasheet" "" (at 194.31 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "DigikeyPartNumber" "" (at 194.31 203.2 0)
+      (effects (font (size 1.27 1.27)))
+    )
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
-          (reference "S4") (unit 1)
+          (reference "S3") (unit 1)
         )
       )
     )
@@ -3859,7 +3862,7 @@
     (property "Value" "MX_SW_solder" (at 265.43 140.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 265.43 146.05 0)
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.75u" (at 265.43 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 265.43 146.05 0)
@@ -7379,30 +7382,6 @@
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
           (reference "MX13") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 283.21 199.39 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid f1910768-bcbf-4057-a6ce-225e80c3a45f)
-    (property "Reference" "S3" (at 289.56 197.993 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MX_stab" (at 289.56 200.533 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u" (at 283.21 199.39 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 283.21 199.39 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "VesselV2"
-        (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
-          (reference "S3") (unit 1)
         )
       )
     )
