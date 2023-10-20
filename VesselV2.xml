@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Ismael\Desktop\Perso Projects\VesselV2\VesselV2\VesselV2.kicad_sch</source>
-    <date>10/19/2023 6:15:09 PM</date>
+    <date>10/19/2023 7:03:25 PM</date>
     <tool>Eeschema 7.0.8</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -30,10 +30,12 @@
       <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf</datasheet>
       <fields>
         <field name="DigikeyPartNumber">311-1103-6-ND</field>
+        <field name="MouserPartNumber">603-CC805JRNPO9BN220</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="DigikeyPartNumber" value="311-1103-6-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="603-CC805JRNPO9BN220"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -47,10 +49,12 @@
       <datasheet>https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0402C105K9PACTU</datasheet>
       <fields>
         <field name="DigikeyPartNumber">399-C0402C105K9PAC7867DKR-ND</field>
+        <field name="MouserPartNumber">80-C0402C105K9P</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="DigikeyPartNumber" value="399-C0402C105K9PAC7867DKR-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="80-C0402C105K9P"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -64,10 +68,12 @@
       <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf</datasheet>
       <fields>
         <field name="DigikeyPartNumber">311-1103-6-ND</field>
+        <field name="MouserPartNumber">603-CC805JRNPO9BN220</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="DigikeyPartNumber" value="311-1103-6-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="603-CC805JRNPO9BN220"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -82,6 +88,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -90,6 +97,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -104,6 +112,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -112,6 +121,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -126,6 +136,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -134,6 +145,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -148,6 +160,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -156,6 +169,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -170,6 +184,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -178,6 +193,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -192,6 +208,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -200,6 +217,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -214,6 +232,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -222,6 +241,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -236,6 +256,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -244,6 +265,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -258,6 +280,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -266,6 +289,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -280,6 +304,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -288,6 +313,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -302,6 +328,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -310,6 +337,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -324,6 +352,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -332,6 +361,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -346,6 +376,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -354,6 +385,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -368,6 +400,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -376,6 +409,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -390,6 +424,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -398,6 +433,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -412,6 +448,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -420,6 +457,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -434,6 +472,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -442,6 +481,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -456,6 +496,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -464,6 +505,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -478,6 +520,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -486,6 +529,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -500,6 +544,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -508,6 +553,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -522,6 +568,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -530,6 +577,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -544,6 +592,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -552,6 +601,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -566,6 +616,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -574,6 +625,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -588,6 +640,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -596,6 +649,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -610,6 +664,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -618,6 +673,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -632,6 +688,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -640,6 +697,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -654,6 +712,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -662,6 +721,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -676,6 +736,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -684,6 +745,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -698,6 +760,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -706,6 +769,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -720,6 +784,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -728,6 +793,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -742,6 +808,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -750,6 +817,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -764,6 +832,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -772,6 +841,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -786,6 +856,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -794,6 +865,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -808,6 +880,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -816,6 +889,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -830,6 +904,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -838,6 +913,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -852,6 +928,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -860,6 +937,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -874,6 +952,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -882,6 +961,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -896,6 +976,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -904,6 +985,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -918,6 +1000,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -926,6 +1009,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -940,6 +1024,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -948,6 +1033,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -962,6 +1048,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -970,6 +1057,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -984,6 +1072,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -992,6 +1081,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1006,6 +1096,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1014,6 +1105,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1028,6 +1120,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1036,6 +1129,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1050,6 +1144,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1058,6 +1153,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1072,6 +1168,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1080,6 +1177,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1094,6 +1192,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1102,6 +1201,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1116,6 +1216,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1124,6 +1225,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1138,6 +1240,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1146,6 +1249,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1160,6 +1264,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1168,6 +1273,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1182,6 +1288,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1190,6 +1297,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1204,6 +1312,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1212,6 +1321,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1226,6 +1336,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1234,6 +1345,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1248,6 +1360,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1256,6 +1369,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1270,6 +1384,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1278,6 +1393,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1292,6 +1408,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1300,6 +1417,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1314,6 +1432,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1322,6 +1441,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1336,6 +1456,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1344,6 +1465,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1358,6 +1480,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1366,6 +1489,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1380,6 +1504,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1388,6 +1513,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1402,6 +1528,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1410,6 +1537,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1424,6 +1552,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1432,6 +1561,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1446,6 +1576,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1454,6 +1585,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1468,6 +1600,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1476,6 +1609,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1490,6 +1624,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1498,6 +1633,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1512,6 +1648,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1520,6 +1657,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1534,6 +1672,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1542,6 +1681,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1556,6 +1696,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1564,6 +1705,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1578,6 +1720,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1586,6 +1729,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1600,6 +1744,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1608,6 +1753,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1622,6 +1768,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1630,6 +1777,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1644,6 +1792,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1652,6 +1801,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1666,6 +1816,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1674,6 +1825,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1688,6 +1840,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1696,6 +1849,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1710,6 +1864,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1718,6 +1873,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1732,6 +1888,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1740,6 +1897,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1754,6 +1912,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1762,6 +1921,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1776,6 +1936,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1784,6 +1945,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1798,6 +1960,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1806,6 +1969,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1820,6 +1984,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1828,6 +1993,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1842,6 +2008,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1850,6 +2017,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1864,6 +2032,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1872,6 +2041,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1886,6 +2056,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1894,6 +2065,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1908,6 +2080,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1916,6 +2089,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1930,6 +2104,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1938,6 +2113,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1952,6 +2128,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1960,6 +2137,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1974,6 +2152,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -1982,6 +2161,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -1996,6 +2176,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2004,6 +2185,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2018,6 +2200,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2026,6 +2209,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2040,6 +2224,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2048,6 +2233,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2062,6 +2248,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2070,6 +2257,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2084,6 +2272,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2092,6 +2281,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2106,6 +2296,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2114,6 +2305,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2128,6 +2320,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2136,6 +2329,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2150,6 +2344,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2158,6 +2353,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2172,6 +2368,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2180,6 +2377,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2194,6 +2392,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2202,6 +2401,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2216,6 +2416,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2224,6 +2425,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2238,6 +2440,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2246,6 +2449,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2260,6 +2464,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2268,6 +2473,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2282,6 +2488,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2290,6 +2497,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2304,6 +2512,7 @@
       <fields>
         <field name="DigikeyPartNumber">1N4148WTPMSDKR-ND</field>
         <field name="ManufacturerPartNumber">1N4148W</field>
+        <field name="MouserPartNumber">833-1N4148W-TP</field>
         <field name="Sim.Device">D</field>
         <field name="Sim.Pins">1=K 2=A</field>
       </fields>
@@ -2312,6 +2521,7 @@
       <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="ManufacturerPartNumber" value="1N4148W"/>
       <property name="DigikeyPartNumber" value="1N4148WTPMSDKR-ND"/>
+      <property name="MouserPartNumber" value="833-1N4148W-TP"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Diode, small symbol"/>
@@ -2325,10 +2535,12 @@
       <datasheet>https://us.schurter.com/en/datasheet/typ_USF_1206.pdf</datasheet>
       <fields>
         <field name="DigikeyPartNumber">486-1675-6-ND</field>
+        <field name="MouserPartNumber">693-3413.0113.22 </field>
       </fields>
       <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
       <property name="DigikeyPartNumber" value="486-1675-6-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="693-3413.0113.22 "/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
@@ -2341,6 +2553,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2353,6 +2566,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2365,6 +2579,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2377,6 +2592,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2389,6 +2605,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2401,6 +2618,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2413,6 +2631,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2425,6 +2644,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2437,6 +2657,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2449,6 +2670,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2461,6 +2683,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2473,6 +2696,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2485,6 +2709,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2497,6 +2722,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2509,6 +2735,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2521,6 +2748,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2533,6 +2761,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2545,6 +2774,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2557,6 +2787,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2569,6 +2800,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2581,6 +2813,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2593,6 +2826,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2605,6 +2839,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2617,6 +2852,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2629,6 +2865,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2641,6 +2878,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2653,6 +2891,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2665,6 +2904,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2677,6 +2917,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2689,6 +2930,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2701,6 +2943,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2713,6 +2956,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2725,6 +2969,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2737,6 +2982,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2749,6 +2995,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2761,6 +3008,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2773,6 +3021,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2785,6 +3034,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2797,6 +3047,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2809,6 +3060,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2821,6 +3073,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2833,6 +3086,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2845,6 +3099,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2857,6 +3112,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2869,6 +3125,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2881,6 +3138,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2893,6 +3151,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2905,6 +3164,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.5u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2917,6 +3177,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2929,6 +3190,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2941,6 +3203,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2953,6 +3216,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2965,6 +3229,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2977,6 +3242,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -2989,6 +3255,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3001,6 +3268,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3013,6 +3281,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3025,6 +3294,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3037,6 +3307,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3049,6 +3320,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3061,6 +3333,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3073,6 +3346,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3085,6 +3359,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3097,6 +3372,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.75u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3109,6 +3385,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3121,6 +3398,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3133,6 +3411,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3145,6 +3424,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3157,6 +3437,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3169,6 +3450,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3181,6 +3463,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3193,6 +3476,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3205,6 +3489,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3217,6 +3502,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3229,6 +3515,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3241,6 +3528,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3253,6 +3541,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3265,6 +3554,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3277,6 +3567,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.25u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3289,6 +3580,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3301,6 +3593,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3313,6 +3606,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3325,6 +3619,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3337,6 +3632,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3349,6 +3645,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3361,6 +3658,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3373,6 +3671,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3385,6 +3684,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3397,6 +3697,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3409,6 +3710,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3421,6 +3723,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.75u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3433,6 +3736,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3445,6 +3749,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3457,6 +3762,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.25u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3469,6 +3775,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.25u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3481,6 +3788,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.25u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3493,6 +3801,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3505,6 +3814,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.25u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3517,6 +3827,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1.25u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3529,6 +3840,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3541,6 +3853,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3553,6 +3866,7 @@
       <footprint>PCM_marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
@@ -3565,10 +3879,12 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="DigikeyPartNumber">RMCF0805FT22R0DKR-ND</field>
+        <field name="MouserPartNumber">708-RMCF0805FT22R0 </field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="DigikeyPartNumber" value="RMCF0805FT22R0DKR-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="708-RMCF0805FT22R0 "/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -3581,10 +3897,12 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="DigikeyPartNumber">RMCF0805FT22R0DKR-ND</field>
+        <field name="MouserPartNumber">708-RMCF0805FT22R0 </field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="DigikeyPartNumber" value="RMCF0805FT22R0DKR-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="708-RMCF0805FT22R0 "/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -3597,10 +3915,12 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="DigikeyPartNumber">RMCF0805FT10K0DKR-ND</field>
+        <field name="MouserPartNumber">708-RMCF0805FT10K0</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="DigikeyPartNumber" value="RMCF0805FT10K0DKR-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="708-RMCF0805FT10K0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -3613,10 +3933,12 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="DigikeyPartNumber">RMCF0805FT10K0DKR-ND</field>
+        <field name="MouserPartNumber">708-RMCF0805FT10K0</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="DigikeyPartNumber" value="RMCF0805FT10K0DKR-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="708-RMCF0805FT10K0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -3629,6 +3951,7 @@
       <footprint>PCM_marbastlib-mx:STAB_MX_P_2u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Cherry MX-style stabilizer"/>
@@ -3641,6 +3964,7 @@
       <footprint>PCM_marbastlib-mx:STAB_MX_P_2u</footprint>
       <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Cherry MX-style stabilizer"/>
@@ -3654,6 +3978,7 @@
       <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
       <property name="DigikeyPartNumber" value=""/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Cherry MX-style stabilizer"/>
@@ -3664,12 +3989,16 @@
     <comp ref="SW1">
       <value>SW_Push</value>
       <footprint>random-keyboard-parts:SKQG-1155865</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/15/SKQG-1155865.pdf</datasheet>
       <fields>
+        <field name="DigikeyPartNumber">4809-SKQGADE010DKR-ND</field>
         <field name="ManufacturerPartNumber">SKQGACE010</field>
+        <field name="MouserPartNumber">688-SKQGAD</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="ManufacturerPartNumber" value="SKQGACE010"/>
-      <property name="DigikeyPartNumber" value=""/>
+      <property name="DigikeyPartNumber" value="4809-SKQGADE010DKR-ND"/>
+      <property name="MouserPartNumber" value="688-SKQGAD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Push button switch, generic, two pins"/>
@@ -3683,10 +4012,12 @@
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
       <fields>
         <field name="DigikeyPartNumber">ATMEGA32U4-AU-ND</field>
+        <field name="MouserPartNumber">556-ATMEGA32U4-AU</field>
       </fields>
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
       <property name="ManufacturerPartNumber" value=""/>
       <property name="DigikeyPartNumber" value="ATMEGA32U4-AU-ND"/>
+      <property name="MouserPartNumber" value="556-ATMEGA32U4-AU"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
@@ -3700,10 +4031,12 @@
       <fields>
         <field name="DigikeyPartNumber">WM3895DKR-ND</field>
         <field name="ManufacturerPartNumber">548190589</field>
+        <field name="MouserPartNumber">538-54819-0589</field>
       </fields>
       <libsource lib="random-keyboard-parts" part="Molex-0548190589" description=""/>
       <property name="DigikeyPartNumber" value="WM3895DKR-ND"/>
       <property name="ManufacturerPartNumber" value="548190589"/>
+      <property name="MouserPartNumber" value="538-54819-0589"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3714,10 +4047,12 @@
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering</footprint>
       <fields>
         <field name="DigikeyPartNumber">SER4069DKR-ND</field>
+        <field name="MouserPartNumber">732-322516MF09Z-AC0</field>
       </fields>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <property name="DigikeyPartNumber" value="SER4069DKR-ND"/>
       <property name="ManufacturerPartNumber" value=""/>
+      <property name="MouserPartNumber" value="732-322516MF09Z-AC0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="VesselV2.kicad_sch"/>
       <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4, small symbol"/>
