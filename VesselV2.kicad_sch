@@ -3016,8 +3016,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 243.84 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a3f21b7-e73f-4dc4-8a0a-1653e5f70160))
-    (pin "2" (uuid 881e81ea-b0d5-44c9-82cf-40da4d9e3da1))
+    (pin "1" (uuid d47c6fb5-2514-439c-a995-b62e5bbf1734))
+    (pin "2" (uuid bd6a6b13-1702-4a04-b28a-3e15f40c0199))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3051,10 +3051,10 @@
     (property "MouserPartNumber" "732-322516MF09Z-AC0" (at 318.77 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50565e44-e798-4bff-b97a-da082d126ea9))
-    (pin "2" (uuid 6a21fce1-ed8b-4809-8098-de931c33d6ac))
-    (pin "3" (uuid 05f43508-ee17-4f1c-99d9-8201ee1092dd))
-    (pin "4" (uuid bfef622b-acfa-4b72-a60d-5f567cca7451))
+    (pin "1" (uuid d475bacd-3ab7-43c2-b607-bbc9dfac5a69))
+    (pin "2" (uuid 3b07a66d-57f7-4a10-bc99-a8b215960b0f))
+    (pin "3" (uuid 6dd74893-6f6b-477d-87f6-3933eb89862d))
+    (pin "4" (uuid 424e8d5c-c2a7-49b9-98f9-f86b225c7ebd))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3088,50 +3088,50 @@
     (property "MouserPartNumber" "556-ATMEGA32U4-AU" (at 361.95 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 97908776-e265-4a3f-8088-5e280d8f91fc))
-    (pin "10" (uuid e791ffd7-cd68-4d89-8d50-7c2c48dfd8dd))
-    (pin "11" (uuid 79dbf2e0-54ad-40d8-a9eb-4126268a7019))
-    (pin "12" (uuid 2d4a2fcb-9860-4b78-b7d9-be29deaafc6c))
-    (pin "13" (uuid 79b170de-fb44-4aa3-abcb-10cbdcc08e37))
-    (pin "14" (uuid 0c3f5d36-618e-4195-a27c-8fcff2d00c82))
-    (pin "15" (uuid b904978c-3b26-499f-9c4d-d2b874f431dd))
-    (pin "16" (uuid 6e1f8959-cbec-4594-aab8-5db72220a700))
-    (pin "17" (uuid e29778d0-63ae-4da4-aaca-1bb31bd4282f))
-    (pin "18" (uuid d16412f3-47bc-49bc-871b-62ffae51fe87))
-    (pin "19" (uuid 33d575e3-b4de-4d8f-87fb-ed857b8bd17d))
-    (pin "2" (uuid cef30679-c7a6-425e-ad8e-4c99beebbdd2))
-    (pin "20" (uuid e659a2ee-7320-4f7b-8387-97e73fea7e6e))
-    (pin "21" (uuid 6dd59497-db72-48f3-8b62-7a309292d16d))
-    (pin "22" (uuid cbca7bda-41b1-4677-becb-fbfc9432dffd))
-    (pin "23" (uuid c2af6239-eaa7-449a-b86c-31e1c497ae51))
-    (pin "24" (uuid da4a4203-1798-414a-b0ae-c8fbbe81d4c6))
-    (pin "25" (uuid 950290e2-0614-4b88-ac02-14ab94504379))
-    (pin "26" (uuid 00bfc647-c7fe-4491-a249-d2f9fc9a3ba4))
-    (pin "27" (uuid 5b07ce51-45e1-471b-9734-1d49a444efc1))
-    (pin "28" (uuid f968d8f4-3d44-4c23-bdb3-bcadba576f61))
-    (pin "29" (uuid a472d994-3b45-42f3-b258-8e3ab1a764b2))
-    (pin "3" (uuid 6af70476-7a97-47e5-993d-19ea1a6271dd))
-    (pin "30" (uuid 0a9af723-1288-4cb2-9535-74b523ed1b87))
-    (pin "31" (uuid 2a39c33f-479c-43b9-b55a-903ca7747449))
-    (pin "32" (uuid 76c66c08-6bca-45aa-8d27-0960ea451943))
-    (pin "33" (uuid c88d4dfe-4a92-43ad-bb11-bf0897ecbddc))
-    (pin "34" (uuid 83a20e62-0313-4076-a22d-c7d4c5ed3451))
-    (pin "35" (uuid dc39558e-8c97-4aab-b522-dc9d3c9b3719))
-    (pin "36" (uuid 18677628-120e-45f2-b1cd-b27c9023933f))
-    (pin "37" (uuid 318e5dc9-db73-4b13-87ec-f51d34522d74))
-    (pin "38" (uuid 68dd42d0-390b-43d9-9896-38c2cc0a9e07))
-    (pin "39" (uuid 2c966583-2f2b-457d-bf95-26f188a9a6c2))
-    (pin "4" (uuid 35b16b78-ca9c-4806-9845-5f2b32155a99))
-    (pin "40" (uuid 561253a1-10bb-452a-827f-48970a4ae6c0))
-    (pin "41" (uuid 2bc44154-e013-4a69-b309-20dceafa1bad))
-    (pin "42" (uuid 3b95e920-b924-4151-9d4f-61e791b0d2a3))
-    (pin "43" (uuid 822239fb-b460-4963-a738-b248509cc056))
-    (pin "44" (uuid 34bd18b4-3450-4e43-9637-8d83726fd694))
-    (pin "5" (uuid fd8f0119-9278-4fa2-aabb-4079a4e92cb4))
-    (pin "6" (uuid 60dc0e90-1dd7-43f9-8cd6-ef5efa8127d6))
-    (pin "7" (uuid 4e887119-e8ed-4d23-97a5-fd013e3ead49))
-    (pin "8" (uuid a84f17e6-809f-40ae-ac7c-fb822b25013e))
-    (pin "9" (uuid 78ae5d79-ba0c-4330-8c92-8e4b1fbf4e65))
+    (pin "1" (uuid 89494b2f-b3de-408f-b8ad-2b726d460605))
+    (pin "10" (uuid 883102ac-7cd0-4086-8bcd-03dcfb8e32e0))
+    (pin "11" (uuid 51b95435-2a0c-4596-b87f-25052ec6ee5d))
+    (pin "12" (uuid 037b0dd6-119a-4611-a066-38618342d9ac))
+    (pin "13" (uuid eeb7ab8c-3568-434f-b2ea-f9239d4ec3fa))
+    (pin "14" (uuid 7ae2dcda-c5c4-4171-952d-0f9fa602fe56))
+    (pin "15" (uuid b3b3231d-7f54-4894-b0a4-37f9ab75e518))
+    (pin "16" (uuid dea1972a-93e2-421c-9dd1-3b90bcee4e7c))
+    (pin "17" (uuid d45300d1-2791-4fe0-9ad2-c3e21f9ed380))
+    (pin "18" (uuid 55c8493c-5481-4acc-8ebe-9f916214c944))
+    (pin "19" (uuid 65c55cb0-5bfe-42b4-ab46-a8e1f168a2fc))
+    (pin "2" (uuid d10e5343-e0c5-42a2-8016-04282de32daa))
+    (pin "20" (uuid a726f33c-f1cb-49b5-a418-ecafd5d97b89))
+    (pin "21" (uuid 103ef6f5-3f6b-4bc8-89a9-af63bd54c8e8))
+    (pin "22" (uuid 0808bb8f-1f61-4a3b-8e5b-727ab1722a0c))
+    (pin "23" (uuid fb37c648-1a24-46a0-b25c-4be83ca38857))
+    (pin "24" (uuid 738d196b-35f1-4c89-9690-e36ab9985eb8))
+    (pin "25" (uuid 70d863cb-4b4e-4483-a33b-afce35a64935))
+    (pin "26" (uuid c462497a-b36f-456e-8877-2f92ea2daaec))
+    (pin "27" (uuid 23777c8c-dcf1-4492-9ce2-5fd729fa1ac2))
+    (pin "28" (uuid ecfc856b-7f76-4ade-9319-cb40f20a5c08))
+    (pin "29" (uuid ccd160bb-1e7a-458d-a54b-654731073c5c))
+    (pin "3" (uuid 0ab838b9-f1bb-4c0e-ba0d-b04075a2559c))
+    (pin "30" (uuid 0528c22a-0410-4d4f-86c9-591883ec0bb2))
+    (pin "31" (uuid 6e1f3ec3-b08e-4003-9ef5-ed188853186c))
+    (pin "32" (uuid 85e3231f-6710-4c63-b032-48c395a19fae))
+    (pin "33" (uuid a2970bd6-f5fc-4b62-bfbd-742169e0eaf0))
+    (pin "34" (uuid ef738aa1-d6a7-45a8-8e60-568a326e900e))
+    (pin "35" (uuid 0577bcfd-d782-422b-9caa-4a21d8c4bf83))
+    (pin "36" (uuid a42eab1b-605a-427e-b56e-7a6603fff521))
+    (pin "37" (uuid 72b8dc20-3270-4c11-ac5a-183ca6dd6f66))
+    (pin "38" (uuid f85b826a-2199-4d0d-ac9f-1e3f69735a94))
+    (pin "39" (uuid d1c7b371-0aee-4666-9e7c-b3b24f7147ac))
+    (pin "4" (uuid 85092af6-9b38-426d-a8f4-0dd9ad47100f))
+    (pin "40" (uuid 8fadda17-4e5d-48cd-a309-9ad084402686))
+    (pin "41" (uuid a115ad50-dfa8-4309-862e-48eb1a553d2f))
+    (pin "42" (uuid f48a9f03-588b-4984-b3dc-1b1d84262b15))
+    (pin "43" (uuid f44deac3-0d82-4bf8-a1cc-5baf82d4e7ef))
+    (pin "44" (uuid 65790805-a651-449f-878d-ee98112ec3b3))
+    (pin "5" (uuid d8bfdaf8-60dc-43d6-bd84-7a79d7fb2aaf))
+    (pin "6" (uuid bc0ac4e6-410a-43b9-a2c0-93df2c17099a))
+    (pin "7" (uuid 41b53f72-3782-42d5-8bb0-cb4acfd7aafe))
+    (pin "8" (uuid a83367a3-c6fa-407c-97f9-b0f1bd7fa827))
+    (pin "9" (uuid 68b3ed5c-2912-41c1-b670-c9445e4a66a8))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3156,7 +3156,7 @@
     (property "Datasheet" "" (at 294.64 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f86b657c-9d38-4354-83c8-d3e3f5cd0ec3))
+    (pin "1" (uuid eff8541c-0d92-48d7-98e8-51cbd5ae192c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3196,8 +3196,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 130.81 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cc4a91f2-0d7d-4461-aeef-6ed28fce1047))
-    (pin "2" (uuid 680ef0d3-b4e8-4c17-bab3-8871326dc451))
+    (pin "1" (uuid f4ebfc0a-fd1a-40cc-bac4-cdbf0620bcd3))
+    (pin "2" (uuid 0b0a7fc7-f47e-4f3a-a2ff-1889bba884a5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3228,8 +3228,8 @@
     (property "MouserPartNumber" "" (at 82.55 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 75747ba9-6fa5-49ca-b986-3f4e0eaa95bf))
-    (pin "2" (uuid d8f4e528-bad6-4101-a430-30f6c00529a3))
+    (pin "1" (uuid 819d029e-56e8-4a6f-bea6-ac1c2cdcd532))
+    (pin "2" (uuid e031e169-3aef-478b-8740-c9962e5da162))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3269,8 +3269,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 176.53 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b67b233-1691-4364-97ee-0ca946e2d7db))
-    (pin "2" (uuid 05326b31-a8ad-457a-a36c-bfaf1df4d6b6))
+    (pin "1" (uuid 656f495e-03da-482c-9a01-684a25e5514e))
+    (pin "2" (uuid a43e54b6-0afe-40d7-865a-4887caed66b3))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3301,8 +3301,8 @@
     (property "MouserPartNumber" "" (at 162.56 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4bfa92e-86e1-488a-bdf3-301a423500ae))
-    (pin "2" (uuid eb9ad0eb-d93d-49ff-89a6-1e345b2b09d9))
+    (pin "1" (uuid 00bc03c5-31ea-4b52-b51e-ade5c1d8c13d))
+    (pin "2" (uuid c22d6951-c8fe-4e64-af8a-f1b90c1e1f0a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3333,8 +3333,8 @@
     (property "MouserPartNumber" "" (at 260.35 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c26392c-008f-4e62-8d48-93fcc0403391))
-    (pin "2" (uuid 3bf045db-e040-455a-b9ac-c70323d22edb))
+    (pin "1" (uuid b8be64a4-f9d3-467b-83bf-3286b7453fc3))
+    (pin "2" (uuid 92938752-a041-4d00-9bc7-ba310985d9c5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3390,8 +3390,8 @@
     (property "MouserPartNumber" "" (at 260.35 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ee835a6-2243-435a-933c-0a70808796e1))
-    (pin "2" (uuid 85bbf2ac-9d43-41de-b9d6-d23b144a64ea))
+    (pin "1" (uuid 172ed07f-9890-4deb-a3dd-3817aa5904f5))
+    (pin "2" (uuid a8ac9c5c-264e-4870-a2cf-3f1bd514ae13))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3422,8 +3422,8 @@
     (property "MouserPartNumber" "" (at 196.85 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a6d3e903-ffa4-43c0-a1ee-ae0ea46422fd))
-    (pin "2" (uuid 63480d35-2ca2-41cb-8ab7-7f27779926d3))
+    (pin "1" (uuid 97948e2c-85fc-45f6-bb4d-a1e59dcc2fcb))
+    (pin "2" (uuid 3801dbb5-ec95-42c6-b5b9-569035d89bd2))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3463,8 +3463,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 111.76 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 919844de-bc1f-42b2-a053-3ffcd42e2c04))
-    (pin "2" (uuid d203954b-8422-4532-ae63-d9218f26ea20))
+    (pin "1" (uuid 9c3cb7a2-c033-47a0-b37d-00ed07862551))
+    (pin "2" (uuid 926a58a4-bfef-4590-84fb-35d8dfde4110))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3504,8 +3504,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 142.24 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0aac811a-d121-447c-b22d-fbcbd7f8b614))
-    (pin "2" (uuid 1bd3670f-6b86-4b2b-a03b-0d89f077a699))
+    (pin "1" (uuid 1b1d29f3-a98a-418f-8aea-f0616e59a96d))
+    (pin "2" (uuid 5edc2bc2-742d-4539-aec2-44eea5e9cfa0))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3545,8 +3545,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b6255ee6-7c3c-4600-be0f-69174763b363))
-    (pin "2" (uuid 399ad3e1-ed64-4f68-8610-c6e4beb68a23))
+    (pin "1" (uuid 20e8f074-82e6-4e6e-aa57-b2d03a9736f6))
+    (pin "2" (uuid 21257133-0138-4351-9b3a-efe09a1d4392))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3586,8 +3586,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 165.1 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d74fc1c2-d538-4790-960f-a51a33ddeb9f))
-    (pin "2" (uuid d0668c00-2dfb-49d8-8f2b-ea1442df16ac))
+    (pin "1" (uuid 0ff8839a-bd1e-4c54-a742-a8c9ba4abb65))
+    (pin "2" (uuid 20cd7ebe-0269-4ce1-ae4d-2399a8b24f1d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3627,8 +3627,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 262.89 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b9ac0a9-ea32-4899-8b84-ae0f074d612a))
-    (pin "2" (uuid 0b26f261-0eb4-4212-baab-693662891417))
+    (pin "1" (uuid b2235acb-3f6b-469f-890d-88bb3e3e332e))
+    (pin "2" (uuid 2997238e-9e48-44d7-8c46-d3798a3e849c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3668,8 +3668,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 233.68 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f1dfaf9e-438f-4e86-842f-b5fbf1182541))
-    (pin "2" (uuid 6c5e8c38-acf8-4d33-8131-8d435f7f823e))
+    (pin "1" (uuid 976895a5-1cf4-4323-b01e-ff958cbc7b28))
+    (pin "2" (uuid 96c4aee6-2257-49e7-af1c-184fb72a2d34))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3709,8 +3709,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 233.68 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fc9630d6-e261-4157-98c9-692038a9f70f))
-    (pin "2" (uuid 88b033ce-5ff1-4002-bf07-42547fcf1469))
+    (pin "1" (uuid 98815697-c608-42d5-a240-91a524523638))
+    (pin "2" (uuid fb80fea3-3199-4e14-914e-a256c0af14dd))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3741,8 +3741,8 @@
     (property "MouserPartNumber" "" (at 139.7 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d84c2b53-84f3-498f-880e-9a6568003454))
-    (pin "2" (uuid 62056ebd-2ccb-41cc-99a3-3be245dd02f8))
+    (pin "1" (uuid 31faa813-efb0-4e04-8e00-3ce4b5c1da8d))
+    (pin "2" (uuid b77a2d85-30e8-4b91-89bd-5f788199f9aa))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3782,8 +3782,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 210.82 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 45f7e3f6-e8a3-4344-9934-e5d7e9b0294a))
-    (pin "2" (uuid e53eabb7-0812-4bcb-92c5-82ea81437b05))
+    (pin "1" (uuid 4f18caba-3d83-4764-bde2-cbe8aabb2dda))
+    (pin "2" (uuid e94ffb98-bcce-44e3-9525-4b0affd9e850))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3839,8 +3839,8 @@
     (property "MouserPartNumber" "" (at 147.32 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f6f1c7d8-2211-4102-98c8-55e2caac1963))
-    (pin "2" (uuid 423b4318-1437-47cb-bfc0-8a1d58982fdc))
+    (pin "1" (uuid b96d9149-8739-4d85-a606-d0397f442c90))
+    (pin "2" (uuid b47c55c5-8caa-4538-a05d-980f68c2a00f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3871,8 +3871,8 @@
     (property "MouserPartNumber" "" (at 93.98 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dc41d025-abee-4d31-bb05-a61dfc9734af))
-    (pin "2" (uuid ea1dec7b-9a7e-4959-bc0d-1f9197101847))
+    (pin "1" (uuid a0cffdb7-6c3c-4d9b-bf54-50701620cf5c))
+    (pin "2" (uuid 676de5d5-3044-42cd-90fd-df73ac24d730))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3903,8 +3903,8 @@
     (property "MouserPartNumber" "" (at 173.99 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 37bf1ee6-1412-48f3-b0e9-ca6e83c17dd9))
-    (pin "2" (uuid 49bd8311-46d4-4253-988b-27fbc693b961))
+    (pin "1" (uuid 380488ea-f090-4a4a-97b4-c2316a60fe23))
+    (pin "2" (uuid 826fdbb0-6116-4245-9018-c5c945d39281))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3935,8 +3935,8 @@
     (property "MouserPartNumber" "" (at 196.85 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2e513ae1-8937-47b2-beb7-a5dc8a1a4375))
-    (pin "2" (uuid 99b66a52-afa0-4832-bb6d-c591a46b928c))
+    (pin "1" (uuid 6919710c-6031-49b9-9de0-6d01407d7529))
+    (pin "2" (uuid 276ee82b-3772-4f04-8e88-a32f3a91cb36))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3967,8 +3967,8 @@
     (property "MouserPartNumber" "" (at 185.42 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1fcf7566-c0c9-405f-b58a-40817db169c5))
-    (pin "2" (uuid 9bcb9835-8860-478a-90d2-9efd5504abe2))
+    (pin "1" (uuid cdb4ebf2-12af-449c-8371-c28f05722093))
+    (pin "2" (uuid fd051913-231f-40e2-98e4-4e82e9a733ed))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -3999,8 +3999,8 @@
     (property "MouserPartNumber" "" (at 227.33 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1d8335bc-3765-437b-be25-73eb61206657))
-    (pin "2" (uuid 5bdbb03b-344f-434f-9771-95a7f4af58a2))
+    (pin "1" (uuid 58e7c956-7642-4e91-a912-6b504da867ca))
+    (pin "2" (uuid f054f2c2-d01f-464a-b4d4-f0cd02e51a71))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4025,7 +4025,7 @@
     (property "Datasheet" "" (at 325.12 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f38fa76-fa78-46c5-ad14-56c12ee9cee9))
+    (pin "1" (uuid c6313031-483a-4c0c-b31e-182af8415518))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4056,8 +4056,8 @@
     (property "MouserPartNumber" "" (at 200.66 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9a579ca-7ba5-4ad0-9897-2bd207f1e5c1))
-    (pin "2" (uuid 68a8e39a-f0c5-4bad-84c2-787ba0922ee9))
+    (pin "1" (uuid eddc104c-d728-4ef3-93ca-d089a2fdb6c0))
+    (pin "2" (uuid 362e53a6-9c3d-45c1-8284-dee6f1a2256c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4097,8 +4097,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 187.96 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4286616a-c2d9-45f6-8cfb-9347ef563732))
-    (pin "2" (uuid a46eebf4-08d1-4ee0-8bfc-fbbdd1553db7))
+    (pin "1" (uuid 3755cc4a-b376-42aa-a7cd-b49092852f60))
+    (pin "2" (uuid e10f60d1-bb8c-47be-a035-5df996b6cae7))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4138,8 +4138,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 176.53 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ef15624-7ef5-4d5f-855a-be4b571d06c2))
-    (pin "2" (uuid f02a21ae-2a19-41fe-858f-1cbac6f8906d))
+    (pin "1" (uuid 749d723a-7c44-424f-8b9e-63b995b9596b))
+    (pin "2" (uuid 00f21274-6a75-445e-ba5a-8003dbadbaf6))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4179,8 +4179,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 165.1 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3eca8f4-c189-437d-ba23-38136b2f7078))
-    (pin "2" (uuid 67ec4c6e-ec4a-418a-adea-ddd91a7596ff))
+    (pin "1" (uuid 305374ef-60b2-424e-a980-de4af3a84dbb))
+    (pin "2" (uuid 40a43e64-bf86-4421-9cd0-29a777c5cda0))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4214,8 +4214,8 @@
     (property "MouserPartNumber" "80-C0402C105K9P" (at 335.28 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85644425-8c76-4c9c-bc54-4b0f321d38de))
-    (pin "2" (uuid 571a95b0-e2e7-43c1-9a32-b6d9e91b26b2))
+    (pin "1" (uuid 58dc3bcd-4479-4698-ae83-0dd9906443e0))
+    (pin "2" (uuid 3bc87be0-65eb-489c-a23c-835c5dc9e07c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4255,8 +4255,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 149.86 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea94ef5c-4e28-4aa9-9493-7e672484ec32))
-    (pin "2" (uuid 8c32a534-afb8-4dc9-9df6-ea946c82c323))
+    (pin "1" (uuid cb64d5c7-2927-42e4-9e35-91661d5f401f))
+    (pin "2" (uuid 86677fca-ee59-4b53-a26d-4bf43432b510))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4296,8 +4296,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 107.95 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9bd7cc01-185e-400a-8beb-97ad4b8885ee))
-    (pin "2" (uuid c03f60d7-b0a4-4165-8300-eff7f66da353))
+    (pin "1" (uuid e6e23162-1869-4e2b-8915-c27173ee1ba0))
+    (pin "2" (uuid 54580511-b19c-442a-b37a-84885c4744f3))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4328,8 +4328,8 @@
     (property "MouserPartNumber" "" (at 173.99 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d3f4472f-6374-4f6f-8fcc-0bbe48e6b30a))
-    (pin "2" (uuid 2136ffdd-4281-4a0e-bbe2-e9af916833ef))
+    (pin "1" (uuid 540dd6e9-080a-4f33-8833-dbfddbcd56ed))
+    (pin "2" (uuid ea361589-6fdd-401d-9914-25938830c18a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4360,8 +4360,8 @@
     (property "MouserPartNumber" "" (at 229.87 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19361b37-0915-4fdf-941e-9aaded5702fc))
-    (pin "2" (uuid 4cfcec21-8ee8-4ed0-96e5-4723267ed2c8))
+    (pin "1" (uuid cc267819-2e32-4184-b979-c9fa99ebf9b3))
+    (pin "2" (uuid 11f84ee3-5461-4d35-a997-e8cf2ebe2c48))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4417,8 +4417,8 @@
     (property "MouserPartNumber" "" (at 241.3 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cd7c812-cfcf-464e-8125-df9b23e25b0a))
-    (pin "2" (uuid 8421d86e-6dae-4ec2-813c-4fbbb83b3490))
+    (pin "1" (uuid 1eee4862-67a4-434a-9f63-b570e4ca2788))
+    (pin "2" (uuid 141f0398-3209-4ab6-85d2-d70359353557))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4458,8 +4458,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 222.25 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd83d36d-5034-4a36-a10b-d68363547160))
-    (pin "2" (uuid b2b6cff4-c927-480d-97d5-c65cbef0616b))
+    (pin "1" (uuid b6f06629-fcd5-4f2a-b518-2e8ca606d719))
+    (pin "2" (uuid 2822503e-4797-4122-9a35-6f763820f213))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4490,8 +4490,8 @@
     (property "MouserPartNumber" "" (at 173.99 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b0f3e4b0-6a09-437b-83bb-ad4ce2d7adb4))
-    (pin "2" (uuid 84b30e89-4aec-47ca-95c8-d0af2474dd59))
+    (pin "1" (uuid 337be5ac-0c78-4429-a398-73b56d8aefcf))
+    (pin "2" (uuid f868501a-1535-4d82-ab33-690c406b909f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4525,8 +4525,8 @@
     (property "MouserPartNumber" "708-RMCF0805FT22R0 " (at 339.09 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21d30984-c7e8-4a74-b902-50e8d9be3370))
-    (pin "2" (uuid d113eefd-4b94-4524-8495-e2ca510391ca))
+    (pin "1" (uuid 83cfbb5e-3ab0-43e3-a8b4-8bc30808fdd8))
+    (pin "2" (uuid 3ce96411-a14f-42b7-aa45-92e443276ade))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4557,8 +4557,8 @@
     (property "MouserPartNumber" "" (at 260.35 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 102d6e84-eab9-4ee0-802c-8de80ac4f98f))
-    (pin "2" (uuid a7455402-3d7d-492c-b525-0b251aec3612))
+    (pin "1" (uuid 259492c5-ed25-419c-8015-60db680bc40b))
+    (pin "2" (uuid 114a73f5-3670-4bab-bcd0-1faa6078c157))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4598,8 +4598,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 107.95 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4052ccd2-be17-425e-a7e7-d75aaff5d943))
-    (pin "2" (uuid d0ce2c9c-5192-49de-85b7-b6aa6f4b478f))
+    (pin "1" (uuid d2443559-9806-43f8-abec-6b22b6388f0b))
+    (pin "2" (uuid e4e4a9ba-b385-41e0-916e-8a8261e49234))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4630,8 +4630,8 @@
     (property "MouserPartNumber" "" (at 93.98 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65521ce2-a822-480d-80b1-64394aaf0f73))
-    (pin "2" (uuid 24c60200-ed4c-4cb4-8dd2-5452b562abf4))
+    (pin "1" (uuid f8245075-b3ea-4168-8a62-0e6c4e71b130))
+    (pin "2" (uuid 383c0968-0086-44b2-84c0-4c10c56ffbd6))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4662,8 +4662,8 @@
     (property "MouserPartNumber" "" (at 271.78 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 601ddf51-c40e-4c64-a63a-9bcba700f951))
-    (pin "2" (uuid f5ece885-a8c6-45a4-a338-57f579786b51))
+    (pin "1" (uuid 03052feb-c802-48d0-828d-71266172c67c))
+    (pin "2" (uuid 0cb35d4f-5578-46a2-a97b-cda1ca5d70f4))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4694,8 +4694,8 @@
     (property "MouserPartNumber" "" (at 218.44 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 057f43c1-f8df-46ab-8d2b-56e8a1c828a7))
-    (pin "2" (uuid 0ea1b77f-70b0-4306-928f-00af712f7662))
+    (pin "1" (uuid 23ce72ea-9079-46a1-a1c9-c79c48e64519))
+    (pin "2" (uuid 62376ced-0eae-4e3a-b240-90fc4f162df9))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4735,8 +4735,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 111.76 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a2f93c2-24a2-4b3f-829f-cf86452c8f0e))
-    (pin "2" (uuid c366156b-5173-46d8-a645-a0591d5be1c0))
+    (pin "1" (uuid 783ca426-6655-4de1-bdd5-41b7cd7df051))
+    (pin "2" (uuid 602691f6-365f-4709-936c-e13848fcfc7e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4776,8 +4776,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 222.25 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 94ff7caa-c403-4088-a2a3-4d5696af7b78))
-    (pin "2" (uuid 61d2542a-0f71-4953-b918-03ccbc8e44f1))
+    (pin "1" (uuid 7f0b1ebe-8e23-4e2f-913d-56d4bcc76201))
+    (pin "2" (uuid caf62dcf-7372-4cd1-843a-65b9e360a046))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4808,8 +4808,8 @@
     (property "MouserPartNumber" "" (at 185.42 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0de45d48-b8be-451d-a7bc-ec0b26318aa6))
-    (pin "2" (uuid f94787e6-bbfa-467d-acb3-c2e09a140458))
+    (pin "1" (uuid 9b10d997-81b2-4551-979a-62e75f16a1e9))
+    (pin "2" (uuid c312eb47-b99f-4cc3-acca-76309e25cba4))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4849,8 +4849,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 199.39 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0806f2c5-7b08-4e11-8fd8-7c50505d9ce1))
-    (pin "2" (uuid 0d814ae2-f37f-46bb-a518-1b7c49f79e3a))
+    (pin "1" (uuid 03a374a5-a8c5-41dd-b32c-841ea4d2fb28))
+    (pin "2" (uuid ddbc4f1d-d66a-49c4-a0ff-c0547cce9819))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4881,8 +4881,8 @@
     (property "MouserPartNumber" "" (at 189.23 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d7132589-4c4a-4181-9b3f-8fa119542925))
-    (pin "2" (uuid 73a289aa-8fa1-4f84-8365-adec4e2f58a6))
+    (pin "1" (uuid 75f54b76-6d63-4403-9c08-11abb37c5c6d))
+    (pin "2" (uuid 90cf424b-9a1f-4281-b320-a094ca33efa6))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4922,8 +4922,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 119.38 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 56e1f36a-7a28-400c-b00d-3b2379a85f71))
-    (pin "2" (uuid c7e67659-f6f0-4ccd-9d96-b45f6075ca69))
+    (pin "1" (uuid fb1e2f0c-faca-4ece-907a-101f1aa2ed1f))
+    (pin "2" (uuid 3cfd42d0-4300-4166-ad80-4d3ed4b4b327))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4963,8 +4963,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 199.39 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c4012618-6c7d-46cb-b1f9-aba24ebe90e7))
-    (pin "2" (uuid 9454de47-e75f-4557-9b1e-d990a3064fd4))
+    (pin "1" (uuid 3f5fd282-2231-4514-ba79-36a91b834933))
+    (pin "2" (uuid 0311a246-2027-4edd-9a00-b681b47fe8e1))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -4995,8 +4995,8 @@
     (property "MouserPartNumber" "" (at 116.84 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c5f1d2a-86fd-4db4-9816-44b48b7e0b21))
-    (pin "2" (uuid 7a68ad72-7272-450d-9ea3-c83f44938e99))
+    (pin "1" (uuid 94edf0df-e07e-4186-a4bb-51e4f3d6b31a))
+    (pin "2" (uuid 1ba88b2e-eeb4-4a34-bc34-39ca5ed17d6d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5027,8 +5027,8 @@
     (property "MouserPartNumber" "" (at 151.13 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6999d76-ef7e-410d-9294-c88d97da5786))
-    (pin "2" (uuid 2ff27752-7a83-49f5-8b8f-432ccc48b5db))
+    (pin "1" (uuid 69a3953e-acbd-41c5-a08e-f4cc38115914))
+    (pin "2" (uuid 18b55a74-9430-4494-9065-c113a90f6b35))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5062,8 +5062,8 @@
     (property "MouserPartNumber" "603-CC805JRNPO9BN220" (at 309.88 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 912077c2-61b3-4640-a4fb-b4c9c5448196))
-    (pin "2" (uuid 0e3b67a7-0e3f-49be-81fa-dcf08b773447))
+    (pin "1" (uuid 54062f3b-0849-4efd-841b-7e2596e73037))
+    (pin "2" (uuid 18d28c18-604a-4634-8ebc-8a796ed6e8e5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5094,8 +5094,8 @@
     (property "MouserPartNumber" "" (at 132.08 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4883df89-17f0-48cd-b70d-9019eb4ce4f3))
-    (pin "2" (uuid b089c373-3b0a-436e-befe-5d93a0eda5aa))
+    (pin "1" (uuid 4464491c-4886-4184-abc6-d6298ce23f02))
+    (pin "2" (uuid b8bfd0d0-8b66-4b51-935f-5ad4fceb8400))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5135,8 +5135,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 142.24 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e6ec695d-5f9f-4a71-9a46-81ef960558a4))
-    (pin "2" (uuid f77bdfa8-fd6f-4f52-9deb-047d96b0b624))
+    (pin "1" (uuid f68f6312-6ce3-4980-84a6-d2d5086270c0))
+    (pin "2" (uuid b4de6b90-6205-46b8-b712-341172fbaf58))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5176,8 +5176,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 203.2 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cba4c40-8a17-4c70-adf7-2b997eaf5892))
-    (pin "2" (uuid aa3b7bce-e105-4996-a989-5f08cf0a65e3))
+    (pin "1" (uuid fe876807-4f0f-4611-86de-9d20c7f4b637))
+    (pin "2" (uuid 7a3c27e5-5034-4e1d-a8ff-7950c171c1b8))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5208,8 +5208,8 @@
     (property "MouserPartNumber" "" (at 196.85 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5bea251f-e011-4557-b6a5-0231b747f4b6))
-    (pin "2" (uuid 1b5bb6b9-6bdb-4cda-9be6-2f64162f41bc))
+    (pin "1" (uuid a4365c3b-bee1-4420-9dfb-2f5f3de547c8))
+    (pin "2" (uuid c00c82b4-594e-4aeb-89e0-fcfd684af66a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5249,8 +5249,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 199.39 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b20a5af8-7f5d-416e-96c4-41928c99cf4b))
-    (pin "2" (uuid cd19c23d-03a3-4012-af55-555cebdfe32d))
+    (pin "1" (uuid 91e1d1fd-321f-4814-836e-db227f780210))
+    (pin "2" (uuid 7430194d-44da-4d70-bd1d-2bf3e2a853e4))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5281,8 +5281,8 @@
     (property "MouserPartNumber" "" (at 208.28 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 36184c19-61ff-4241-8057-047bd542cdd4))
-    (pin "2" (uuid 2d63429a-361d-43ca-9512-9e087f9a83ab))
+    (pin "1" (uuid be8d0af2-4f5c-4e58-82d0-4ded3c413296))
+    (pin "2" (uuid 6ad12adc-04c5-46a0-8bda-6096263383cd))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5313,8 +5313,8 @@
     (property "MouserPartNumber" "" (at 97.79 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7d39d95-4c21-4ded-a690-34351473b095))
-    (pin "2" (uuid c4d7bf94-12f1-4909-9de5-ef4166268367))
+    (pin "1" (uuid a84bd563-6563-4188-8384-06e5097837ce))
+    (pin "2" (uuid 0ebb84f7-870e-4e98-be54-c1a59816bcd7))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5348,8 +5348,8 @@
     (property "MouserPartNumber" "688-SKQGAD" (at 337.82 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ffee1017-74a1-4b53-b9f9-54fac6cff056))
-    (pin "2" (uuid 94fcf0c5-f1ad-4743-9c28-7488b16c0cec))
+    (pin "1" (uuid fef1a7d7-de54-41ca-adcb-df34e26676bb))
+    (pin "2" (uuid 273dd6d6-aa7e-4273-b530-25e2c56e26a3))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5389,8 +5389,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 274.32 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a79a9581-fc3b-46ba-b1db-356bd6932fe2))
-    (pin "2" (uuid 640e84d8-1f2f-4e48-b010-84bed8fc839d))
+    (pin "1" (uuid 4199daa5-ce34-48cf-8834-469a56c3c1eb))
+    (pin "2" (uuid b4c2279b-afd2-4877-b9c5-14cfbd1381f4))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5430,8 +5430,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 274.32 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9f1f45d-24be-48dc-943c-27f773116622))
-    (pin "2" (uuid 1f777568-9d0f-42fe-8a93-a91dcabc0d06))
+    (pin "1" (uuid d5265818-7ffe-4f77-86e7-58b3ecd2fa27))
+    (pin "2" (uuid 8909e33a-3c33-4345-aae8-327205b7771f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5471,8 +5471,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 153.67 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b383b1f9-0c8c-48b8-9dd3-919194ca16c8))
-    (pin "2" (uuid 940bc3c4-1e58-4fb0-b255-d3d1cbc4e317))
+    (pin "1" (uuid 3cfd7db1-7181-435b-8e90-d2ce82b2cc79))
+    (pin "2" (uuid 66d74438-b54d-45ef-a470-6532bf026599))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5512,8 +5512,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 251.46 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4256be83-76ce-4f74-8685-5299ef15152e))
-    (pin "2" (uuid 2ef7478e-f44f-4c11-a021-fd89413125c2))
+    (pin "1" (uuid b8758840-bd23-434b-99b1-afdbb3b64005))
+    (pin "2" (uuid 646eaf5d-1847-4ba7-ab97-548395dbac96))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5553,8 +5553,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 210.82 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4880688-de66-4283-a3f3-40be4a4fdf7c))
-    (pin "2" (uuid b1c5436b-a00a-414b-84bb-5d175c3208c9))
+    (pin "1" (uuid c4cb7c30-25f1-4537-8315-0d4c57ed7700))
+    (pin "2" (uuid 672c2639-63f6-4b73-8de4-b361a072a859))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5585,8 +5585,8 @@
     (property "MouserPartNumber" "" (at 116.84 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 45159a69-259c-4513-80c0-d197c3206a31))
-    (pin "2" (uuid ccd25e46-4841-4dc3-915b-7d758b8f733e))
+    (pin "1" (uuid e0888fd0-4f97-4d41-95e1-5dc9c8a2cf7a))
+    (pin "2" (uuid 46f92a05-f47d-4f18-8932-efe6dca96faa))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5650,8 +5650,8 @@
     (property "MouserPartNumber" "" (at 185.42 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c754b4be-2f88-4d93-88cb-b1b3669a04d7))
-    (pin "2" (uuid ff96d0ea-761a-43ae-935c-ed3dd266b1a3))
+    (pin "1" (uuid b5cc07f8-2463-4b1e-8576-4af2af68f382))
+    (pin "2" (uuid ab99b205-0684-495d-923a-5a669fcabe39))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5691,8 +5691,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 153.67 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c2b2022-af13-43d5-a6fd-093f13cc8e93))
-    (pin "2" (uuid e6499622-799a-4784-8764-68aede2bc34d))
+    (pin "1" (uuid e5983f88-e20e-4d6b-8611-f48f37890c84))
+    (pin "2" (uuid 6cfaf309-a003-4e0f-b12e-f0321f79211b))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5732,8 +5732,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 222.25 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6a73ff6e-cc5d-46f5-9182-cd638c7cd85e))
-    (pin "2" (uuid 731f5c16-4ee7-4921-a1a3-19852af0d802))
+    (pin "1" (uuid 5884b05a-ae3d-437d-aaf5-5a34fc042ca9))
+    (pin "2" (uuid 46118efe-3503-410f-b283-a61769467464))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5773,8 +5773,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 123.19 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d8e6a5c3-42de-4f55-bcab-80501fd09aa4))
-    (pin "2" (uuid cf18f4d8-6eaf-4513-a12d-40662072d1d1))
+    (pin "1" (uuid c7c5dd9a-cba5-43fd-b975-cef450e08a6e))
+    (pin "2" (uuid efe65535-8a42-467a-9a62-29bea8a41e75))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5814,8 +5814,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 274.32 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af9e499a-6880-4e15-9a39-b53621e03154))
-    (pin "2" (uuid 24eb96e7-d821-488e-8919-b07459b26196))
+    (pin "1" (uuid ab90832f-76d6-4dfb-b861-fabcd4ef68b2))
+    (pin "2" (uuid 55756d91-e8be-4ee3-90c6-96f020edda6a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5855,8 +5855,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 229.87 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6afd5e90-da21-4115-8948-d6343fb577f1))
-    (pin "2" (uuid 7f13c1c3-bf75-466f-89f6-928f350225bf))
+    (pin "1" (uuid 1ed36c0f-8086-47c6-98cb-9a20ceb5ed4f))
+    (pin "2" (uuid 38cd243f-539d-418e-9526-8e7e14dde327))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5887,8 +5887,8 @@
     (property "MouserPartNumber" "" (at 93.98 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5843c3bf-d285-4ce5-ab2f-af9cd9563e4a))
-    (pin "2" (uuid 462ec24a-a656-4b19-9265-3163e45b1dcc))
+    (pin "1" (uuid 279c9b03-061d-401a-ac25-7efaadd3edb5))
+    (pin "2" (uuid f9576d8f-e88e-4654-b2d3-d931b75d712e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5919,8 +5919,8 @@
     (property "MouserPartNumber" "" (at 219.71 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b58aad6-4796-4ea1-9310-e2ee4f5a7217))
-    (pin "2" (uuid d5d61256-852e-4720-b270-2c62591fadd6))
+    (pin "1" (uuid b4a40540-230e-4c97-8628-64612f51295f))
+    (pin "2" (uuid 558d2e34-ab0d-45f9-a458-8dec32385fbf))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5951,8 +5951,8 @@
     (property "MouserPartNumber" "" (at 208.28 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07f85f33-3644-4a96-ad5d-1d097970025f))
-    (pin "2" (uuid 826e4714-c0ef-4593-ab00-54e23d14fe28))
+    (pin "1" (uuid 03f8b568-0cc0-431f-8ad2-fb0270016013))
+    (pin "2" (uuid 33357884-ee09-446b-89f5-1617732f7d5f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -5992,8 +5992,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 220.98 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7e0bbb5b-8377-4552-bc73-709af25cc688))
-    (pin "2" (uuid 7cc6f5ad-b317-4456-a481-30ec8d73c841))
+    (pin "1" (uuid ea754fba-1a3f-4c0a-8f3d-9a4b5c315a05))
+    (pin "2" (uuid d4af4f50-b1e1-452a-9af0-9a69033c13c7))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6033,8 +6033,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 119.38 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8d5c627d-bd69-40a3-9919-7e2d2798b65e))
-    (pin "2" (uuid 88fc8887-47a7-46f7-9081-3d592536c1c5))
+    (pin "1" (uuid 20a0c2f1-0111-404e-91ab-a518f4e1d131))
+    (pin "2" (uuid a136d665-93bb-4d18-a7d5-a0426d8ffb90))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6065,8 +6065,8 @@
     (property "MouserPartNumber" "" (at 185.42 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5dbb80f0-6b44-4c22-9f0e-3569407af555))
-    (pin "2" (uuid 19b7744e-96c3-4431-9f7c-17e6c497bc97))
+    (pin "1" (uuid 19d49b53-a0ff-4ad4-b80b-4707cbc4e1b6))
+    (pin "2" (uuid 79cdab8b-90d3-4319-b8e2-69a6af24ee11))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6106,8 +6106,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 99bad1e4-babc-4b7d-b208-75511e15bae3))
-    (pin "2" (uuid 7b287190-0d8e-42ab-81be-fc380f15995a))
+    (pin "1" (uuid 65d91afa-95f4-4b00-9c21-87b7b9be2f31))
+    (pin "2" (uuid e52827e2-01c9-4fa4-9163-2fe4118c367b))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6147,8 +6147,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 142.24 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 108364a0-bacb-4a55-b196-9231cc26133e))
-    (pin "2" (uuid 20422ff6-e871-4f37-8112-d77c927da787))
+    (pin "1" (uuid 9e752f9e-31ea-459f-b278-6d20068831a4))
+    (pin "2" (uuid 1a806bea-4ea6-4e95-adab-94e401eadf90))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6173,7 +6173,7 @@
     (property "Datasheet" "" (at 303.53 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eb760e48-2967-4930-ad76-19ea554c915f))
+    (pin "1" (uuid c87ef407-9ac6-4531-9f36-03bc723bd8cb))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6213,8 +6213,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 274.32 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6388dab-c913-4694-8c5b-8bdd8d4e50ca))
-    (pin "2" (uuid 8f89a57b-2365-4f96-ad09-2cf79816301e))
+    (pin "1" (uuid f77d0e27-6cd5-447d-81e7-a705cd265b4f))
+    (pin "2" (uuid 1d98bbe9-488b-4ed7-863c-cde0b22280fc))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6254,8 +6254,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 153.67 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5976eb97-90e8-4ba9-8633-101a2bbc2dd6))
-    (pin "2" (uuid 1eedd389-7c88-4d1a-a495-33a90ea40bf9))
+    (pin "1" (uuid 96a6dd30-23ca-4ffd-898e-f6eb9351987f))
+    (pin "2" (uuid b2737066-06ef-4f11-8393-f283621e3542))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6286,8 +6286,8 @@
     (property "MouserPartNumber" "" (at 162.56 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d949ae9b-310c-49e1-bfb5-4da9d2ed9965))
-    (pin "2" (uuid 2b9afd2f-a827-467a-ba43-ee6b0fea4540))
+    (pin "1" (uuid 0ba54297-139b-437f-b1bd-fc7b7f4bd03e))
+    (pin "2" (uuid b6dc8c55-51cd-425d-9a22-e837e76fc4de))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6318,8 +6318,8 @@
     (property "MouserPartNumber" "" (at 231.14 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ab45bb2-0e47-4d6a-a2e6-9f280359a768))
-    (pin "2" (uuid a54260ab-6049-4416-b0d7-98c1645e1992))
+    (pin "1" (uuid c2bfc6ae-c042-42b8-ba33-1b8365513043))
+    (pin "2" (uuid f76f4935-1387-4eec-833c-22d104dd7737))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6359,8 +6359,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 165.1 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f674ffd-fe79-4d33-ab43-7d6382d8c62c))
-    (pin "2" (uuid 6c6245aa-bf1d-43fc-999a-051e0d9b04fe))
+    (pin "1" (uuid 0a966c80-4eae-43db-a1d8-e1db874a21c9))
+    (pin "2" (uuid bbc1d767-f5ff-4ad4-88b3-1dfa2a617cc2))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6400,8 +6400,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 274.32 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 67a80293-e88c-4787-84e8-5afb257a77b3))
-    (pin "2" (uuid 124d63ba-f067-49ed-bd31-8098f64dde0e))
+    (pin "1" (uuid e644a67a-4daa-4467-9a33-10ccd4874bb1))
+    (pin "2" (uuid c6fb08e9-ff9d-4096-912c-6b0f142e38b6))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6432,8 +6432,8 @@
     (property "MouserPartNumber" "" (at 120.65 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 99e485a1-c716-41fe-b360-c99cb964a04b))
-    (pin "2" (uuid dfe3b9b6-3677-446d-8110-50e89ecab1e1))
+    (pin "1" (uuid 23c791a0-54e6-4358-b772-445d28a25bea))
+    (pin "2" (uuid a8ecf727-32df-41ca-8beb-fe695347b92e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6473,8 +6473,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 199.39 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c562676-7773-4df1-8cc5-1c6089b8b6d4))
-    (pin "2" (uuid 3115ae33-8b9a-4be3-929d-f49f0cb26680))
+    (pin "1" (uuid de8c4df0-48c2-4f5a-beb2-9614330fa91b))
+    (pin "2" (uuid 643b240f-a826-4caf-bb20-c324059ed3d8))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6514,8 +6514,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 187.96 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid acd75ddb-58fb-4f54-aff2-53f365a3f4ae))
-    (pin "2" (uuid f6f1546d-a21c-4a0c-90ff-6f4ce7093feb))
+    (pin "1" (uuid f89e3ae3-c111-4a15-9438-f3b770867b42))
+    (pin "2" (uuid 36697ace-7046-4ad5-abfb-9589b0525773))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6585,8 +6585,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 191.77 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 057d99ed-58df-4c1e-837c-67d636c28f4d))
-    (pin "2" (uuid f9d379d1-8cc8-42c0-96a9-573c8b506ad1))
+    (pin "1" (uuid f224fd59-466d-4844-83de-dfd19366fb43))
+    (pin "2" (uuid be0ae360-404c-4d56-9c74-07f91775b31d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6617,8 +6617,8 @@
     (property "MouserPartNumber" "" (at 162.56 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 432949b3-687f-4121-b221-00b69da6324a))
-    (pin "2" (uuid d023a188-9a1e-49d5-ac5b-21f5d4ae6dcd))
+    (pin "1" (uuid 7b4ab521-f88f-4ab9-affa-f8c54d556f49))
+    (pin "2" (uuid d173b0ee-9177-4fd1-b7fc-35759e29a140))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6649,8 +6649,8 @@
     (property "MouserPartNumber" "" (at 128.27 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 919c064f-9411-49b1-b504-18597c81f4d8))
-    (pin "2" (uuid 005d71e9-c385-45ff-a457-f8be82735af2))
+    (pin "1" (uuid 9e5f5500-b5f8-41fc-9f01-957c3cba9f15))
+    (pin "2" (uuid 3e556ea2-4a10-4c52-b179-41aa1a43a2d0))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6690,8 +6690,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 29671a4a-5b97-4e23-8527-82b4d48142de))
-    (pin "2" (uuid f32f9faa-d133-4641-81a8-9df39bd1ed4e))
+    (pin "1" (uuid 0dd880c7-12b8-4f99-a72e-9129b075fb39))
+    (pin "2" (uuid b3351703-cd96-4f54-8daf-10e7d4da85a2))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6722,8 +6722,8 @@
     (property "MouserPartNumber" "" (at 128.27 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea8025a1-b6b7-42a2-9a5e-ba2008ba98f9))
-    (pin "2" (uuid 7938a819-a055-48c2-ba7e-2464ecbf16cb))
+    (pin "1" (uuid aa7869c9-5164-4675-b88c-a7fc7ca382d2))
+    (pin "2" (uuid 22a7b969-e47b-4baa-98d5-29596a4bf27a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6754,8 +6754,8 @@
     (property "MouserPartNumber" "" (at 219.71 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c7b9517b-8412-4114-878a-99434e73e040))
-    (pin "2" (uuid 48ab24fe-d24d-44d4-8b80-f10430988b36))
+    (pin "1" (uuid 5c687369-3c8d-4367-a00c-e636d6b05fad))
+    (pin "2" (uuid ce805f16-ab25-4206-a491-efc2585ae5e8))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6786,8 +6786,8 @@
     (property "MouserPartNumber" "" (at 82.55 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a17dfaf-ae4f-4605-8416-e87a5846e70a))
-    (pin "2" (uuid 79a6e3e5-7387-47a1-bf9d-8f34074c2499))
+    (pin "1" (uuid 823e1989-ef1a-4c79-99a4-129ce7b776be))
+    (pin "2" (uuid 12c3f4d1-c041-4210-9941-86696d4d20fd))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6818,8 +6818,8 @@
     (property "MouserPartNumber" "" (at 162.56 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 802d6243-d8a5-4e93-9089-13c47eb42e5f))
-    (pin "2" (uuid 47be159b-efbc-4f2c-a2c2-f7ec978145da))
+    (pin "1" (uuid 426a361b-ba5f-435b-8c48-a1726352e7e3))
+    (pin "2" (uuid 46031c94-0c3b-4c77-a96b-4ba32a6f4a2e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6859,8 +6859,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 96.52 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cb2d65b-2d8f-4bc9-a7d6-cb35c735d968))
-    (pin "2" (uuid 62347141-697b-42d2-bbfd-3a3271ef9c37))
+    (pin "1" (uuid 6c07ac1e-2086-4eb2-ab09-6e55c4ad13aa))
+    (pin "2" (uuid 07087fb8-5fd3-415b-93b2-ad11aa265a1a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6900,8 +6900,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 210.82 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bef9d04b-6b2f-4473-82cc-6012f0e104c7))
-    (pin "2" (uuid ac677dcd-7fa4-4f4a-8dcc-cb7e482c2784))
+    (pin "1" (uuid 742d567b-58a6-48ea-8d0b-1c68ea647850))
+    (pin "2" (uuid 3f08fc7e-8307-44bd-8776-828d828e4d6c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6932,8 +6932,8 @@
     (property "MouserPartNumber" "" (at 260.35 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9377afe-9746-4b89-85ab-e295f7f862db))
-    (pin "2" (uuid e0017517-bb0d-4d08-9870-7d3024222f9d))
+    (pin "1" (uuid 892b4f1a-3d13-47ce-9f2c-9fc22c09f562))
+    (pin "2" (uuid 9a621616-eccb-407f-96ab-180b65717290))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -6964,8 +6964,8 @@
     (property "MouserPartNumber" "" (at 93.98 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 70460c5d-3945-49e7-94b1-68949f1675d8))
-    (pin "2" (uuid 5cb1e92c-f947-4faf-a8ea-6cefab8b342a))
+    (pin "1" (uuid 46d38b47-d773-447e-84a6-426660f4806a))
+    (pin "2" (uuid 15192da5-f79a-4487-b286-e4594c3ee102))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7005,8 +7005,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 233.68 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 17e1b7ca-e2a9-463b-843b-e4560371391f))
-    (pin "2" (uuid 6d383edd-7b75-42b2-a43c-a8acb0bc5fa2))
+    (pin "1" (uuid 0032a528-62fa-490b-ae96-d7d20ae82b7e))
+    (pin "2" (uuid 7e06ee46-0354-4424-9eb6-7c1f6d5fd70a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7046,8 +7046,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4eb003f5-84cf-4175-9d06-9906692e3569))
-    (pin "2" (uuid 93a382d8-dba9-43d5-8533-4b00607ed771))
+    (pin "1" (uuid 1dc26cda-d8bb-4bd1-bb7f-51163d9ca3b8))
+    (pin "2" (uuid 36c11dfe-f0fa-4425-be69-944663a77ce5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7078,8 +7078,8 @@
     (property "MouserPartNumber" "" (at 162.56 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ef95ff6-8ab3-4afe-bdd6-a1b2b38805fc))
-    (pin "2" (uuid 51b2d98a-2a77-49ee-85da-c6715b97efaf))
+    (pin "1" (uuid c2d80b92-0005-4da0-b2b5-7e60800d198e))
+    (pin "2" (uuid ebca3061-698e-487a-af74-fb4d43621853))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7169,8 +7169,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9312a100-a630-4c7c-bd56-65e038dcab52))
-    (pin "2" (uuid 6eab2935-98c4-4026-83b7-424b3886051e))
+    (pin "1" (uuid 303ffdc4-1da4-4360-a510-29a6031776fc))
+    (pin "2" (uuid 36ec4b97-6682-4631-90d2-19181cd75baf))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7201,8 +7201,8 @@
     (property "MouserPartNumber" "" (at 215.9 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 550ce0f4-52a8-4bf0-838e-1175926eabac))
-    (pin "2" (uuid 58b3ab3f-f467-496b-a237-796de3559724))
+    (pin "1" (uuid ee550c32-2b9b-406c-9af5-72457cdf4a55))
+    (pin "2" (uuid 7d3e3202-99ca-4ca6-931d-bd0993f811b5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7242,8 +7242,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 161.29 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e7141500-31c1-4641-bcd5-70e3032289a6))
-    (pin "2" (uuid d66b6351-6c16-4f90-b8e2-98ca7d82268b))
+    (pin "1" (uuid 15cf67f6-662a-488b-9f86-da83d3836014))
+    (pin "2" (uuid 0bae202e-df7b-4f84-bdef-fe99e7dc0d04))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7274,8 +7274,8 @@
     (property "MouserPartNumber" "" (at 271.78 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a07559f-e6aa-48f4-b06a-a9cb482afe74))
-    (pin "2" (uuid b0a553ef-a168-4b55-a45c-defca8cdae0f))
+    (pin "1" (uuid 91794d14-82e1-4c75-b754-0b15b6f7462d))
+    (pin "2" (uuid a374ad23-b87a-4524-9577-c6892756cd4c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7315,8 +7315,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 165.1 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a30bbd73-8329-400b-8137-0edbb8093fa2))
-    (pin "2" (uuid 4cf0a5a1-d05b-41e8-abf4-d762bcd1a313))
+    (pin "1" (uuid 8c98994c-efc6-4b07-829c-6877225dbe7c))
+    (pin "2" (uuid f855dea1-a9c7-4b9a-8bd9-bf37c65880bc))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7356,8 +7356,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 274.32 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 838723c8-754c-461b-8ef5-098b9986e02b))
-    (pin "2" (uuid 99567b01-4751-4777-84dd-0c9e6c28064e))
+    (pin "1" (uuid 98195862-bcc4-47bf-a9f8-ed302d3c4c2b))
+    (pin "2" (uuid ba625955-8b9a-4caa-82e8-ff85dea96d32))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7388,8 +7388,8 @@
     (property "MouserPartNumber" "" (at 82.55 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13bf562c-8d49-4d6a-a3df-16a2bea943d1))
-    (pin "2" (uuid 2cd514f0-2254-46a3-90a1-8864cc92b32d))
+    (pin "1" (uuid 8906abb3-b8b7-4303-bd27-dcd1a9e0d440))
+    (pin "2" (uuid e60a2bc1-309d-4a70-a225-df2d98bb424f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7420,8 +7420,8 @@
     (property "MouserPartNumber" "" (at 173.99 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f82c427-5842-451a-8d65-c30a24e4b706))
-    (pin "2" (uuid 80cfb1b4-7df2-4cef-9651-e441b67856f2))
+    (pin "1" (uuid 156492dc-b1f4-4d35-80bc-ad8746f2f289))
+    (pin "2" (uuid c3b5f170-6b2b-436c-8e52-509e47fb4e82))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7477,8 +7477,8 @@
     (property "MouserPartNumber" "" (at 82.55 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e9e2ab2-1309-4c92-80e8-1d675103cc41))
-    (pin "2" (uuid c63089db-7877-48d6-b9fe-0944d26c6aeb))
+    (pin "1" (uuid 8078481c-a339-4a41-9d78-39b0b3e9aa22))
+    (pin "2" (uuid 0ef07b8b-8c92-47e7-b744-72df03dae59a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7509,8 +7509,8 @@
     (property "MouserPartNumber" "" (at 271.78 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c3b1d2f-0687-4d85-af5d-e9be0d30a396))
-    (pin "2" (uuid f3c625ae-4251-4923-a4c8-37aa23b4ec13))
+    (pin "1" (uuid d1adc1b1-9ccd-42ff-accf-df96011af169))
+    (pin "2" (uuid b9fddbde-9021-4dd1-bd2d-3dcc096adcda))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7544,8 +7544,8 @@
     (property "MouserPartNumber" "708-RMCF0805FT22R0 " (at 334.01 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7414a7fc-240b-4586-8a57-f072092ea1b9))
-    (pin "2" (uuid 74bd6891-f964-42a0-a21e-6bc99cb3d4a3))
+    (pin "1" (uuid 6f71235f-84d6-4117-aafa-a37acf74be88))
+    (pin "2" (uuid 2e018ada-c4f7-487a-98e0-824b2388fb18))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7576,8 +7576,8 @@
     (property "MouserPartNumber" "" (at 260.35 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e076b224-4691-450d-919a-8dd827f64216))
-    (pin "2" (uuid 87528284-567d-457a-8ccb-3d1f5d33c997))
+    (pin "1" (uuid e35dcdad-97da-4513-909c-16a1f99c4fce))
+    (pin "2" (uuid 5531d1ca-847f-4cd3-90a4-0d1c0f7adcf1))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7617,8 +7617,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 262.89 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dc3eaed1-c089-4d73-8d90-4b1e6c857960))
-    (pin "2" (uuid fe9b44db-80ff-453a-9d5a-5eb9ba634db5))
+    (pin "1" (uuid e16f1112-e9a1-4bc6-85a9-b64b9b192019))
+    (pin "2" (uuid 59505ddd-cb6e-40c4-9e31-ce50340461d0))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7658,8 +7658,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 233.68 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b29d210-1d5a-460c-9587-ff403a7b50ce))
-    (pin "2" (uuid 51c88a41-2740-4b3b-b80f-49fcec5b14b4))
+    (pin "1" (uuid d751b34b-1819-45de-8e27-b28549509896))
+    (pin "2" (uuid fb127252-fc61-4560-a4d5-1a92004e706a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7690,8 +7690,8 @@
     (property "MouserPartNumber" "" (at 271.78 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fc1f1e46-a08a-4396-90ad-a3a007c89a56))
-    (pin "2" (uuid 270ea0a9-2f0c-4932-99fb-0c017e4aa9ac))
+    (pin "1" (uuid 7e5b0de4-5c08-4a3e-8a13-8beaa9e05373))
+    (pin "2" (uuid a5737f5e-a70c-4ab7-bd34-04ac4e29e9e4))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7731,8 +7731,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 142.24 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d61e2669-d4b9-4d08-ae27-23a24a2b2ecf))
-    (pin "2" (uuid 949d517d-58df-4d44-9891-4bbd8d8dc80a))
+    (pin "1" (uuid cf196595-caae-4551-a87d-b35c8cfc790c))
+    (pin "2" (uuid 23e9e76d-64df-47ca-9b91-14d31f1f0355))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7763,8 +7763,8 @@
     (property "MouserPartNumber" "" (at 231.14 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fcd262fd-19e9-4ca9-aa6c-685b88bb4f0a))
-    (pin "2" (uuid a7201c6a-8071-4fd5-8002-57844277ad3f))
+    (pin "1" (uuid 52a17140-eb04-4191-af75-3056759ad3af))
+    (pin "2" (uuid cb0acc47-39df-4410-8059-2f7159bdece4))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7804,8 +7804,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 199.39 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ffc09549-ec87-4749-a884-57806b7d4562))
-    (pin "2" (uuid 6514ab43-cf42-434a-8195-f0308b582ac3))
+    (pin "1" (uuid 3486605e-5149-4385-af37-68c1cd1d7e2a))
+    (pin "2" (uuid 9a273487-becb-4e03-99d9-ffbdb4a1c5d5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7845,8 +7845,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 96.52 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fb70dce1-de61-42ab-8b9b-4fa594baa51e))
-    (pin "2" (uuid 775800fc-163a-4298-812f-3fe8223196a9))
+    (pin "1" (uuid 9cdbb17e-dccf-40eb-b547-1211957054b0))
+    (pin "2" (uuid 77010a32-6de8-4741-9355-c45dec722776))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7886,8 +7886,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 96.52 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3883147b-a10e-4abe-a290-2436762fbde0))
-    (pin "2" (uuid 42a26593-3844-4262-95c6-b0eee58f3049))
+    (pin "1" (uuid eb6882b1-e511-487b-9051-81bb4ed19f7b))
+    (pin "2" (uuid ebf7a5e4-e752-4556-b485-81cf3fa5fc61))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7918,8 +7918,8 @@
     (property "MouserPartNumber" "" (at 219.71 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5eaa515f-425b-41b0-b89d-ccfd7029cba9))
-    (pin "2" (uuid 75977a53-50a4-4184-a4de-121c4c5e9863))
+    (pin "1" (uuid 21cc4321-6a4c-45d0-8446-6c30861518cc))
+    (pin "2" (uuid 7af382d5-f538-48b1-8893-5d99edc2507f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -7959,8 +7959,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 176.53 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50a19497-2c2f-49d7-9cfc-88cfb835cf96))
-    (pin "2" (uuid 1bedcee8-350b-4066-8fc8-7049c298fe3d))
+    (pin "1" (uuid 0007e16b-1e82-476d-b2c8-8e3b0c9bacc0))
+    (pin "2" (uuid af581dcc-ecce-42b7-ab33-1aaa89cb7f0a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8000,8 +8000,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 210.82 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd565c0c-d668-4770-980a-fc4880d2f216))
-    (pin "2" (uuid 56880fde-1a7e-437a-8c6a-a866a0e5a968))
+    (pin "1" (uuid 183fc6c5-f299-4b58-9cf4-ba600f193110))
+    (pin "2" (uuid 7644ef30-7e14-4e34-8109-d259a70738ab))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8041,8 +8041,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 251.46 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 02efbbf4-60c1-4600-9de1-3f556a6312ff))
-    (pin "2" (uuid 657f4887-fdb2-438e-95ed-eef6efebc052))
+    (pin "1" (uuid ce1ac7a3-c6bf-4d58-80f9-8ee27a9b10db))
+    (pin "2" (uuid ee3cb29f-5957-4675-abf9-54c1711cf46e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8073,8 +8073,8 @@
     (property "MouserPartNumber" "" (at 208.28 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 09499fd9-dd8f-47b4-9c7d-831a99b98630))
-    (pin "2" (uuid d6f5e459-5b3f-4e12-829b-9b739612b0d4))
+    (pin "1" (uuid ca52acd9-c041-444a-ad90-acf4f7098c6d))
+    (pin "2" (uuid e5b9fc51-1494-4e20-b7fa-725a9c5e5e90))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8114,8 +8114,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 232.41 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 279143aa-19db-4140-8c40-4bfe2acd4977))
-    (pin "2" (uuid 13705362-ca21-48c5-9731-c67eb52edd37))
+    (pin "1" (uuid 7e0ff8fd-6faa-401e-aed1-dd4e02935c4f))
+    (pin "2" (uuid a51607a2-86a1-4acb-8f6f-a3516e0f3461))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8155,8 +8155,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 87c207bb-897d-48e2-bc08-9e615e90fc61))
-    (pin "2" (uuid 39cd6e21-bffb-4d34-8c6f-582a5cfb160a))
+    (pin "1" (uuid 65ed8155-641a-4d7a-8d17-f0fc98593eac))
+    (pin "2" (uuid 551aef69-c01b-475b-afc8-45ad7680ae2a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8196,8 +8196,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 119.38 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9b63ba7-f137-461b-bb2f-e6c72a115bcf))
-    (pin "2" (uuid dcf2fe45-e13f-4333-9fbc-dce2b6e5d2d3))
+    (pin "1" (uuid 7393723f-3ef3-42e7-9227-299db41b062f))
+    (pin "2" (uuid 50bd70e9-b4e2-42ab-82c0-afae72264d66))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8237,8 +8237,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 222.25 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b59dccb3-0423-4659-af03-ec0107a30a24))
-    (pin "2" (uuid 4146b9f4-c28c-4573-9541-d8b9ddb534ed))
+    (pin "1" (uuid b8c78222-f690-4245-a455-22f4298c73ec))
+    (pin "2" (uuid be9a1030-3fdc-4e5b-86c5-380b54bf2c01))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8278,8 +8278,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 262.89 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20b98777-1c5e-4160-a409-5468f458e24b))
-    (pin "2" (uuid 1a928a77-402f-4eee-bf22-09304443f103))
+    (pin "1" (uuid 7e2981a2-04d0-415d-a7bd-4405a7c6dd7b))
+    (pin "2" (uuid e58e7434-0c1c-439f-8ce5-784477b69b29))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8310,8 +8310,8 @@
     (property "MouserPartNumber" "" (at 196.85 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1fb9dd2e-1d84-4556-80f4-45be683b5373))
-    (pin "2" (uuid 8de7ecf1-d805-45ad-962f-4f390aaf006e))
+    (pin "1" (uuid 515fd959-97d7-4aa6-b6c8-b75f0eba083d))
+    (pin "2" (uuid 8378bd0f-d7b9-4129-b959-eccf4633cff3))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8342,8 +8342,8 @@
     (property "MouserPartNumber" "" (at 139.7 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 43a8f4b7-eef6-4df5-b35c-26d2331fad7d))
-    (pin "2" (uuid 9eedf53e-bc0d-43ed-b341-1e9eee5268a8))
+    (pin "1" (uuid 4574f7fb-e2ea-463d-b265-ce96579da7c1))
+    (pin "2" (uuid 674fd00c-da7a-480b-a2c2-5d57076a1035))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8374,8 +8374,8 @@
     (property "MouserPartNumber" "" (at 208.28 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f106356-da7a-4e19-ae68-3d10ba55e08e))
-    (pin "2" (uuid 7d2f6ba2-fb44-4614-84b2-e9ad152c0c4a))
+    (pin "1" (uuid 291f289e-a673-4bba-a94c-b81495d476af))
+    (pin "2" (uuid 86e5b26f-879b-4f71-ac20-fe10d80cef48))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8406,8 +8406,8 @@
     (property "MouserPartNumber" "" (at 128.27 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dcfc9ac2-cd25-4fa6-a9e8-2e6da7c65c20))
-    (pin "2" (uuid 994e3021-faef-415a-898f-b6b18d53818d))
+    (pin "1" (uuid eeeb332f-4284-4fff-a8c4-3ec96a06aef8))
+    (pin "2" (uuid 18493b6a-839b-4290-b376-c06eca68d23b))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8447,8 +8447,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 107.95 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b811899c-21a7-4e22-8310-bd9610f56bfc))
-    (pin "2" (uuid 55f6252c-88f7-4fe8-b70b-6458dc6a593b))
+    (pin "1" (uuid fc129a63-6551-483f-870f-db14340f3ba4))
+    (pin "2" (uuid d0b2ad1c-d402-44dc-8d57-0e9b0ca2ac6d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8479,8 +8479,8 @@
     (property "MouserPartNumber" "" (at 219.71 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5e00ed22-cbf2-4418-b516-e6d705aace0e))
-    (pin "2" (uuid bc42c604-7a54-4b97-af97-f13267cf9558))
+    (pin "1" (uuid b85e3aef-b85f-4419-a78f-0aeb1bd12516))
+    (pin "2" (uuid 765be644-90ef-4815-93e2-f2805bf047cb))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8520,8 +8520,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 262.89 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ad5f9f7-4d8e-437f-8c12-7ccad1014645))
-    (pin "2" (uuid b02a61a7-a0a2-42ab-8a09-1b5dd9cd78ff))
+    (pin "1" (uuid 152c9941-587e-40f7-a734-4086dc72b92b))
+    (pin "2" (uuid adbe74ae-d339-4483-9a11-b5e046536807))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8552,8 +8552,8 @@
     (property "MouserPartNumber" "" (at 105.41 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e7afcfc6-cc8c-4d8c-86cd-5bb748e8190b))
-    (pin "2" (uuid 733b06ec-0ec8-42fb-bc4d-870bf3d32095))
+    (pin "1" (uuid ae702a09-8952-4eaa-9e3a-d925d51d6057))
+    (pin "2" (uuid f9319e37-906d-4073-ae3c-7e957e4e228a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8584,8 +8584,8 @@
     (property "MouserPartNumber" "" (at 151.13 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8f6f01a-cc2e-4cb8-8ca0-572835a0f5ab))
-    (pin "2" (uuid 8829bef4-6c78-417f-9fbc-1651ffc2260a))
+    (pin "1" (uuid 1e553b77-9298-4dd4-8f8e-eb5f11e33320))
+    (pin "2" (uuid 1f7915a5-eca8-44e3-a19d-d24346fd676c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8625,8 +8625,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 138.43 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1feeb8c1-fdc5-42ad-9e3e-3dcb92921b46))
-    (pin "2" (uuid a28ba5a8-5bb9-4c4f-aa3b-7f310f4d04a7))
+    (pin "1" (uuid bc423c93-44c4-4c0a-9d35-7bd03d9b747f))
+    (pin "2" (uuid 53d16cb8-9810-425f-bfcd-babdf14d0d0e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8657,8 +8657,8 @@
     (property "MouserPartNumber" "" (at 105.41 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34adabb6-8121-409a-a9da-eb30a9d20892))
-    (pin "2" (uuid 7117f487-20fc-4f70-ae0f-b8504acea04b))
+    (pin "1" (uuid 1d679f46-f1da-4d99-a4cc-9f8534caeb9a))
+    (pin "2" (uuid 608fb1ab-e318-4630-ba64-d3e767ceabc7))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8698,8 +8698,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 210.82 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cbcfd056-05be-4db1-b760-b629c22819d1))
-    (pin "2" (uuid dbc14b05-2936-40e1-be4f-1fafa48269c2))
+    (pin "1" (uuid d1eb34ef-9c49-45f4-8cbd-bb68bc3d9a34))
+    (pin "2" (uuid cac4b759-64ab-41f8-82f1-0ba76a1eff77))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8739,8 +8739,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 130.81 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21f45e70-dcd3-4ab3-a9bf-a3678ecac827))
-    (pin "2" (uuid e78c7547-abb9-4542-b7f2-cf3b6b78c5e1))
+    (pin "1" (uuid 720bfeba-169b-4898-9818-d7549547c6fd))
+    (pin "2" (uuid aa0a2fcd-77be-4960-bef2-5ab45194951c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8771,8 +8771,8 @@
     (property "MouserPartNumber" "" (at 170.18 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ec8e04f-dce0-4efc-ae52-a3ffb9d02ae9))
-    (pin "2" (uuid fe09b623-b05a-445a-9e89-d7855315036e))
+    (pin "1" (uuid b2ce3939-99db-4f22-97ac-8a7e3d8ac116))
+    (pin "2" (uuid ea6e8e4e-fd65-49c4-b90c-fecd1c3d824e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8806,8 +8806,8 @@
     (property "MouserPartNumber" "693-3413.0113.22 " (at 312.42 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid efd95846-7e40-445a-a6b9-dad26654c804))
-    (pin "2" (uuid 5c5dc7ba-7807-4aef-a9c2-a05b9318f35e))
+    (pin "1" (uuid ba475b62-757c-4b10-ab0c-a8fe72fe2e49))
+    (pin "2" (uuid 0ded32f6-7d8c-4bf2-b2cc-3ffb6d41e6d1))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8838,8 +8838,8 @@
     (property "MouserPartNumber" "" (at 109.22 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e42a2179-5b18-4325-aa75-a818059a6ea2))
-    (pin "2" (uuid f71f67ad-3be9-40b2-97a8-3329b9b80a8f))
+    (pin "1" (uuid 4e33231f-b1d4-4082-90c1-2000fd362dec))
+    (pin "2" (uuid 9027569f-4e77-4f30-8d1f-8867796ca56e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8870,8 +8870,8 @@
     (property "MouserPartNumber" "" (at 196.85 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8877b06c-8eb7-4233-8ea8-da3761ca3720))
-    (pin "2" (uuid 62c150bd-a583-43a8-a5eb-20b62d83cdd3))
+    (pin "1" (uuid 8965e6e5-37ff-44dc-8ecb-a4498c98990f))
+    (pin "2" (uuid 10b8a9f1-aaf7-4ece-8458-cbf2544ed753))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8932,8 +8932,8 @@
     (property "MouserPartNumber" "" (at 185.42 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fa34bbaa-462b-41dc-baa1-0e1d2df68b21))
-    (pin "2" (uuid 1347975b-5c44-4e8b-8a75-4dd8e86e9a15))
+    (pin "1" (uuid 810f4e75-db6b-4b8d-baa0-eb10e82da038))
+    (pin "2" (uuid adba006d-119e-474d-8ea7-5e9255316148))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -8998,8 +8998,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 100.33 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid affe12cb-aa9e-4e4d-b552-42884d8b880c))
-    (pin "2" (uuid a072fe52-d416-4278-b610-e89533193829))
+    (pin "1" (uuid ade840af-5fb5-47bf-ac05-cc356b058c50))
+    (pin "2" (uuid 57bb9557-242f-42af-8a4b-1f44ace2d44f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9039,8 +9039,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 187.96 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 06cdb804-cd9c-4122-8b07-e210100ad065))
-    (pin "2" (uuid 81945762-4cb1-4ca4-afdd-ae0cfada6d9b))
+    (pin "1" (uuid 983a1df7-ff27-4942-9c25-143b700d6140))
+    (pin "2" (uuid fbc0e039-6705-40eb-b24b-4b083d2c348d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9080,8 +9080,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 85.09 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fdb04450-ece7-4e3f-a399-552699889564))
-    (pin "2" (uuid add1bced-7fa6-4b57-b9ff-5c20ddc63cc8))
+    (pin "1" (uuid 3bef807a-02f1-4a97-afef-8ba857e29141))
+    (pin "2" (uuid bf537e34-4624-47ae-b9ab-52dbe1e2858e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9112,8 +9112,8 @@
     (property "MouserPartNumber" "" (at 181.61 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 83adb9a9-1dd8-47d7-8597-f86ae36a6085))
-    (pin "2" (uuid 51b8d3f8-457b-4c72-9102-da3e80c5f809))
+    (pin "1" (uuid b60d6e14-fa9e-4505-921b-8402bc792272))
+    (pin "2" (uuid 042cba35-cfd8-4e83-a1c9-979a992ee523))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9144,8 +9144,8 @@
     (property "MouserPartNumber" "" (at 82.55 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid edbb6171-74cc-45fb-b196-a6a4df90b0fa))
-    (pin "2" (uuid 6d1fad22-a64e-4545-aea2-6a8a71945441))
+    (pin "1" (uuid 579fa429-4193-474a-97fa-17b46781f5b8))
+    (pin "2" (uuid afef75a6-ed1e-4a2e-a801-677ac21f7fc5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9185,8 +9185,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 176.53 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a5114ae1-7bd5-42b9-861c-d72b995ae8cb))
-    (pin "2" (uuid d5a9488a-d42f-4a63-93f8-8323501f08e3))
+    (pin "1" (uuid b9dd5071-299e-4030-9e02-8384ec1914e3))
+    (pin "2" (uuid 2907b5ea-12eb-4a65-9cb3-f9c55fac8f44))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9217,8 +9217,8 @@
     (property "MouserPartNumber" "" (at 116.84 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7fdc986-4041-4cef-bfd0-62bbd4acc73f))
-    (pin "2" (uuid 124be4e4-062a-4dcc-b147-523049253591))
+    (pin "1" (uuid 70858d30-8bf2-4043-9b80-8f2612243bc5))
+    (pin "2" (uuid ec1473b7-343e-4398-be54-bbd43a977373))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9258,8 +9258,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 153.67 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6dc10c35-5c6e-4fcd-b27e-1435b1aeed15))
-    (pin "2" (uuid 4fdc4397-5951-42dc-b3f8-c25567fa6373))
+    (pin "1" (uuid b71a1c5e-fa89-40a9-9245-8e2b0310e7a9))
+    (pin "2" (uuid f6a06fff-f9a5-41f9-9e86-dd64ffba3897))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9293,8 +9293,8 @@
     (property "MouserPartNumber" "708-RMCF0805FT10K0" (at 382.27 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c613a0d-fc95-4b3c-91b9-f7f2c9bda2d4))
-    (pin "2" (uuid 4178f481-8223-4bd1-9128-d5bea5f8fbee))
+    (pin "1" (uuid 7d4358ca-0e65-4ce3-8093-df513d2210ff))
+    (pin "2" (uuid 0a6da702-77f4-4c0e-908e-e92a4dbae1a2))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9334,8 +9334,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 107.95 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 52cb0b93-c7d9-49da-8609-b35b971a5b1d))
-    (pin "2" (uuid c86de65f-ed4d-4b73-ac37-b657367d54d4))
+    (pin "1" (uuid 727df348-377e-4f3d-8087-5dac60e3c436))
+    (pin "2" (uuid 1487256d-3781-49a7-bc8a-32f34da5ac00))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9375,8 +9375,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 119.38 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b5a30378-1a2c-4f91-9257-1d4f0bd66a95))
-    (pin "2" (uuid e18c6c29-e6df-481c-898f-ac4523996907))
+    (pin "1" (uuid 2192f144-f565-4d53-8474-7cdf3251909a))
+    (pin "2" (uuid 51d297df-2441-4e24-8aec-d88112375d12))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9416,8 +9416,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 96.52 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c51a749-53e3-4f5c-9079-da36da7f6496))
-    (pin "2" (uuid 1f278734-f0c0-4187-b295-a9dc9cd0b6d9))
+    (pin "1" (uuid eb598633-9ccf-4156-9c8f-daf0d1be2a69))
+    (pin "2" (uuid bc1e12b3-41f9-4521-908a-f1937c29784b))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9451,12 +9451,12 @@
     (property "MouserPartNumber" "538-54819-0589" (at 283.21 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eacca155-6f9b-4c1b-a6d7-671b3d460fc5))
-    (pin "2" (uuid fb742b25-5ec2-49ba-a768-6e940c67b090))
-    (pin "3" (uuid 81acb534-1538-4cc2-9d7c-bcd77d43cd86))
-    (pin "4" (uuid 7a2078a3-8912-4a18-83bc-a0551877e7a3))
-    (pin "5" (uuid f626752a-79a4-49a2-a1bd-fea91695c018))
-    (pin "6" (uuid 7764780d-619f-451e-9490-fbcaecd4a165))
+    (pin "1" (uuid 8fddebc4-4513-4dc8-958d-9df85176a50c))
+    (pin "2" (uuid 49e5a9ec-8eb7-435d-95f9-b44a7cad78fc))
+    (pin "3" (uuid 8ee3c252-e369-4b4e-9480-dc1e5215aa73))
+    (pin "4" (uuid 946d7edb-0f42-4a32-8655-94fd764c6710))
+    (pin "5" (uuid 934cfd9e-bfeb-406f-baff-f81290f8648c))
+    (pin "6" (uuid f920ec5f-ce08-4344-9421-51281af4dd35))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9487,8 +9487,8 @@
     (property "MouserPartNumber" "" (at 128.27 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 55781f1e-83ac-46d6-91b7-68c1e19a4239))
-    (pin "2" (uuid 1f332f0a-0f41-4acd-bee8-809454f10105))
+    (pin "1" (uuid dc4ce7a8-7ca4-49b9-acf3-69204c33a63c))
+    (pin "2" (uuid a73ca1c5-a65a-4898-9365-1ced6fe7a545))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9528,8 +9528,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 184.15 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c023baf5-8bde-438d-88ea-9dae7dae13cc))
-    (pin "2" (uuid e4b29308-04a0-4d90-9ab9-baa468b39d3f))
+    (pin "1" (uuid 47e77913-a72d-4250-8c3b-73edae3951ce))
+    (pin "2" (uuid 830fdd07-0e3f-4446-8577-d0e84f3ead51))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9569,8 +9569,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 199.39 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5be8e8f8-a39a-4126-8a6f-7bbfa44b626c))
-    (pin "2" (uuid 92cc7f2d-0e55-4c16-a7a9-676193d3d8db))
+    (pin "1" (uuid ab91c2df-af82-48e6-8d56-d8e4c8d038b6))
+    (pin "2" (uuid 6ea1cf22-ff21-46bf-8a3a-c08484bac220))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9601,8 +9601,8 @@
     (property "MouserPartNumber" "" (at 139.7 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 42770544-4a95-47ea-85dc-ced6bad5a505))
-    (pin "2" (uuid 6b466f51-cb70-4c8d-b957-8067a14378b8))
+    (pin "1" (uuid 8fa1adf1-0ccd-41fa-adfd-44cc05466272))
+    (pin "2" (uuid 07689939-6216-47b0-957a-14af0f25b0b0))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9642,8 +9642,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 262.89 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95d1e3c4-ed2f-48db-9a2d-e0414646a51f))
-    (pin "2" (uuid 294eb850-8007-4877-aea2-3ad86f0e3d31))
+    (pin "1" (uuid 58da63a3-59a6-4c58-b4dd-a4eca78941f5))
+    (pin "2" (uuid f455aa97-09f2-4057-ac12-2d1db41804ea))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9674,8 +9674,8 @@
     (property "MouserPartNumber" "" (at 151.13 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc2a5892-53b7-4f34-b5c2-e50ad2906752))
-    (pin "2" (uuid acb4a28b-6cbd-4b95-a86f-a8e6fa257ae0))
+    (pin "1" (uuid 74ec81a9-c4c6-4af0-83ff-8f6bf2992661))
+    (pin "2" (uuid d39c3106-8418-46ca-b445-c28992e8e57f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9715,8 +9715,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 153.67 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 950a0e46-2271-44b0-8154-41eb3ede4fc7))
-    (pin "2" (uuid bcdd1fe8-3845-4fc6-8774-07cff0df209c))
+    (pin "1" (uuid c46a7d39-b8a8-433d-8797-7b2bd37d5be6))
+    (pin "2" (uuid 41eaf20f-11eb-47ce-addd-1f9fe777afe3))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9747,8 +9747,8 @@
     (property "MouserPartNumber" "" (at 93.98 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 06323fbf-0be8-4721-aa91-1402012fbbb5))
-    (pin "2" (uuid 60e310cb-89b4-4224-ace0-e031e3becd20))
+    (pin "1" (uuid 63d28331-2f71-4e48-8575-ab7fb07b74a4))
+    (pin "2" (uuid 0d28ea11-fd5a-44ff-8bd5-c5a919899cd2))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9804,8 +9804,8 @@
     (property "MouserPartNumber" "" (at 109.22 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f2ca73b-2490-43a9-8cfa-7064ca1b7773))
-    (pin "2" (uuid af7988d0-a12a-48bd-a9de-3e9db1967c33))
+    (pin "1" (uuid 3b1c4b8b-6a18-448d-9b3f-a7781f68f4a2))
+    (pin "2" (uuid 910f2790-544b-46c2-ac83-3ad4e5c1279d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9836,8 +9836,8 @@
     (property "MouserPartNumber" "" (at 219.71 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a9076d9d-c499-47bb-b95f-76cc365b1bbe))
-    (pin "2" (uuid d0e6e545-3bae-452f-ade6-ab85ff985a47))
+    (pin "1" (uuid 84ad5bd6-3ae6-463d-8206-f495c64f12d9))
+    (pin "2" (uuid 47925cfa-4778-41e4-865a-fa71685aebfd))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9877,8 +9877,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 130.81 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f6ce8d7-6cbe-479a-82c8-7b7fe1cfceca))
-    (pin "2" (uuid 9b57ff9b-66ba-4e6d-8a5b-8ff1097f9fa8))
+    (pin "1" (uuid da84e9ec-33b1-4464-af79-50e91dc18743))
+    (pin "2" (uuid 5904cfca-1807-42ac-9460-66ee07e62f92))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9918,8 +9918,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 176.53 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 051e8979-4688-4a44-a2e5-0635bda3eb0b))
-    (pin "2" (uuid 023054b1-c87e-49b8-8b4a-66676830e395))
+    (pin "1" (uuid feaf9b49-c678-4009-abed-fafdd874d188))
+    (pin "2" (uuid 036c37e8-43cb-4679-ae87-939364db9385))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9950,8 +9950,8 @@
     (property "MouserPartNumber" "" (at 135.89 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c4716dc3-f3f8-46b0-9a82-5c976c66bffd))
-    (pin "2" (uuid 49076adb-e955-45e9-a992-83db61622e7d))
+    (pin "1" (uuid 49fad558-9963-440b-8fa7-4dacaa84e71a))
+    (pin "2" (uuid b9575bba-bd8c-41f8-9105-9d317ac76a49))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -9991,8 +9991,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 187.96 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 967fce88-5db9-410a-83c3-8b97e386aa07))
-    (pin "2" (uuid f9a76c26-f0b2-4863-808b-47004cba9f83))
+    (pin "1" (uuid 04687cbc-98de-4a38-ba2a-e4cc8114dcd3))
+    (pin "2" (uuid 9b943f16-3bc7-47a6-b7e6-1eb06f2faa14))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10032,8 +10032,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 218.44 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d93a728c-0ade-42db-8b4a-ae6c61ebbf2a))
-    (pin "2" (uuid 646a72e5-dea0-4ee9-b40c-5f63eb2f81fb))
+    (pin "1" (uuid bbec6037-24f1-44f5-ab19-4f435486d5a9))
+    (pin "2" (uuid b9160cd1-25fd-4aa5-b79b-6bb178e18e99))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10064,8 +10064,8 @@
     (property "MouserPartNumber" "" (at 139.7 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7a767abd-2946-4f10-9f98-a2adbc369e7e))
-    (pin "2" (uuid dea8c7c8-07d9-433d-98c3-bba13243ae32))
+    (pin "1" (uuid ed7c1553-c0a8-4f3a-b1c6-f9d03f340f84))
+    (pin "2" (uuid fd46ffc5-d9fe-4af4-bc61-4e9f3334cd03))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10105,8 +10105,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 187.96 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e299d3d6-768c-47d7-a047-5563a8437731))
-    (pin "2" (uuid ec65df09-8a01-464a-b825-56b17e2b21e6))
+    (pin "1" (uuid 2d185736-fbb2-43d1-9796-f3993d285d3a))
+    (pin "2" (uuid 4708c5fc-9f20-4951-b23a-f24fa4e3ff82))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10137,8 +10137,8 @@
     (property "MouserPartNumber" "" (at 105.41 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22f9db67-f44f-4580-bdbc-651cb70a79fa))
-    (pin "2" (uuid 59416af3-3c56-4ad6-8c07-28feb0eb0116))
+    (pin "1" (uuid ef509563-7a68-4c9a-830f-b16d5a67010c))
+    (pin "2" (uuid 2c3e3f03-57d7-463c-9b32-4af0834db15c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10178,8 +10178,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 172.72 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1dbed8d4-8a3c-4e20-9bb8-c4b6d0fb1928))
-    (pin "2" (uuid 092fe6e8-489c-42bf-96c1-bda493478186))
+    (pin "1" (uuid 69175b57-c760-47ee-be33-727bb93f93fc))
+    (pin "2" (uuid 2f2a7afe-261b-43c5-b1f2-74d7ca4d9919))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10219,8 +10219,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 130.81 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fb180a43-118f-433a-9a7d-87f95de4474e))
-    (pin "2" (uuid 5869d955-4212-475f-9e0e-989c60ae7ad2))
+    (pin "1" (uuid 34038fb2-b9eb-45ce-bdf0-7bc2dff6efca))
+    (pin "2" (uuid 016788eb-531a-4475-8357-61e971ef2beb))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10251,8 +10251,8 @@
     (property "MouserPartNumber" "" (at 248.92 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0be0758c-5c01-46c7-bbf1-f499358633e5))
-    (pin "2" (uuid 0525fca4-3abb-47c4-8944-e5f115c63e0d))
+    (pin "1" (uuid e04383ac-b49b-4c9b-99c6-ea4fd57ff0de))
+    (pin "2" (uuid 99241344-9fa2-48b0-85b1-abf2ebf546ac))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10292,8 +10292,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 165.1 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 599a5762-e4f0-4650-b3a7-b8f52998b7c8))
-    (pin "2" (uuid 43009627-2e69-451d-9dcb-1b314bf880a1))
+    (pin "1" (uuid 64affdfa-450a-4f4e-8e65-6b0b4f90fa87))
+    (pin "2" (uuid eeb346e9-a271-4076-bb80-0b8f255fd68f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10324,8 +10324,8 @@
     (property "MouserPartNumber" "" (at 173.99 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 64d7996e-4b38-41ce-932c-76c0cd753c6d))
-    (pin "2" (uuid 90f7c4e0-a0f8-484f-aab5-c499d11587e6))
+    (pin "1" (uuid 7674cdf4-1cf1-467e-b60c-777e8f393bde))
+    (pin "2" (uuid 0e0c2a75-c4c1-4bae-aa41-02122f8099f3))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10356,8 +10356,8 @@
     (property "MouserPartNumber" "" (at 151.13 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 53583920-360a-4cd0-a840-dc680b0acaa1))
-    (pin "2" (uuid 58105ff8-f946-4823-9c6d-8cb333bd6197))
+    (pin "1" (uuid d428602b-a0f8-4380-8267-fb877ce52187))
+    (pin "2" (uuid a7751cc3-e91a-4fe0-9879-834c5ebcc4bc))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10388,8 +10388,8 @@
     (property "MouserPartNumber" "" (at 231.14 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1a59d2f0-3392-4910-ad75-7958f27a1c6f))
-    (pin "2" (uuid ebf4ece7-e29f-4fbc-86ec-db73d9553978))
+    (pin "1" (uuid 97c24b1b-c45c-4d70-a66e-92a7cabe9a28))
+    (pin "2" (uuid 5751cc93-b764-41f0-ad82-ae6e8dff6024))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10420,8 +10420,8 @@
     (property "MouserPartNumber" "" (at 271.78 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25d8dc63-d479-45a0-bb65-05190fd3cd42))
-    (pin "2" (uuid 86d2027c-3134-4f2a-82fc-24b61ec0ea9c))
+    (pin "1" (uuid 6e3c2561-fd58-4425-b886-9356bbeea0a3))
+    (pin "2" (uuid 365e909f-941d-4750-8610-79fe74faaa7c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10452,8 +10452,8 @@
     (property "MouserPartNumber" "" (at 105.41 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cae706f7-1682-4fdb-a2ce-7ca60f4dab55))
-    (pin "2" (uuid 2715b9ca-4460-4190-abdd-106ef40f57de))
+    (pin "1" (uuid 2f4ab390-4a57-4d0d-8416-c54502c04ecf))
+    (pin "2" (uuid beaf3336-3703-41b4-a3f6-a24aa19a5e6c))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10484,8 +10484,8 @@
     (property "MouserPartNumber" "" (at 93.98 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aade92fe-737d-46d1-a29f-b9f6e2f626ac))
-    (pin "2" (uuid 530460f0-b945-40d5-a967-057be48a9a90))
+    (pin "1" (uuid 8e26ba44-aa85-4eee-a3a1-06bea8891bca))
+    (pin "2" (uuid f3e35adb-5c4e-43db-9f09-74c6e0dcf22f))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10525,8 +10525,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 134.62 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e7e1497e-328c-4ef1-96e9-48cc4c4b6232))
-    (pin "2" (uuid dc5c7a6e-b3f5-4502-8a6c-9b6dc9350ede))
+    (pin "1" (uuid 10ea65b0-c525-4c04-9707-88fb8426854f))
+    (pin "2" (uuid 5378c23f-0300-4220-8a54-72298390e334))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10566,8 +10566,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 123.19 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3727d441-4f69-4ffa-b135-414f53aceaf7))
-    (pin "2" (uuid 1bff638b-e96f-47b3-8ba6-aedcbc40c7bd))
+    (pin "1" (uuid c3018f71-a232-4cd4-aa6c-4e39536834b5))
+    (pin "2" (uuid d433edc0-c545-462d-9e9c-892137d34aec))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10598,8 +10598,8 @@
     (property "MouserPartNumber" "" (at 116.84 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e1a5f4e-de7f-4d52-85ef-6fd5ef2f8ed0))
-    (pin "2" (uuid beee8667-dbcf-491d-9132-bee245809843))
+    (pin "1" (uuid ea49111d-10e9-4a72-89ff-4ebb193b7687))
+    (pin "2" (uuid e2d352e3-03ad-4e53-81bb-a528dc38e5c5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10630,8 +10630,8 @@
     (property "MouserPartNumber" "" (at 248.92 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39bcf1cc-64b2-4fff-8ffd-2be7f92c20ca))
-    (pin "2" (uuid eb2a83d0-6d5c-451d-ab4f-d256afc22bd2))
+    (pin "1" (uuid 46b8dc7d-8abd-4d9d-94fa-eae795edf006))
+    (pin "2" (uuid 4110000a-47dd-4214-821b-6fc4359ab52d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10671,8 +10671,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 149.86 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6e9a30d8-83f9-43c5-8917-5b58265b0a6c))
-    (pin "2" (uuid 55c4990c-69e9-48de-b2f7-92b88251c435))
+    (pin "1" (uuid ae9e976b-5f21-484b-8c06-f7a14f6d65b5))
+    (pin "2" (uuid b86a3f75-0d67-463a-b8ef-c51a942cf421))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10703,8 +10703,8 @@
     (property "MouserPartNumber" "" (at 196.85 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 283be83d-a9de-48be-adf3-081649532d50))
-    (pin "2" (uuid e54aff8c-1f5d-4f16-b259-3739fd82df43))
+    (pin "1" (uuid a0fc7488-9a94-40dd-a246-1d7b97bcc7f7))
+    (pin "2" (uuid 1e4ae110-3591-4d24-9993-31864e1fb680))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10735,8 +10735,8 @@
     (property "MouserPartNumber" "" (at 151.13 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 17ad40e0-7120-489c-9112-6c37abb599db))
-    (pin "2" (uuid 1b48b8dc-3a94-477b-a29e-22c783cc750a))
+    (pin "1" (uuid 2e36fbdb-214e-43c6-be4e-d6d336fb6b77))
+    (pin "2" (uuid d5ae684d-98b6-45e5-9c5d-b6c73f7f3463))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10767,8 +10767,8 @@
     (property "MouserPartNumber" "" (at 208.28 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3fd0bf6f-1b5e-4a23-967f-62324830f7b5))
-    (pin "2" (uuid 8b4875e1-4a70-4d07-a03e-babb250b48ad))
+    (pin "1" (uuid 703a9678-3bfb-4924-9714-7c69b6359453))
+    (pin "2" (uuid 466e59a2-951c-499c-bc9f-260654f606c0))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10802,8 +10802,8 @@
     (property "MouserPartNumber" "708-RMCF0805FT10K0" (at 342.9 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d05b84fc-6cb3-433a-b35b-f715c388ef37))
-    (pin "2" (uuid 030a550b-c9d4-4f5b-aac0-67e80f9c8b54))
+    (pin "1" (uuid aad1fb1d-313b-4d22-92bc-df620fa9fc46))
+    (pin "2" (uuid ebb915fd-4411-4e37-a4f1-7b601ec26844))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10834,8 +10834,8 @@
     (property "MouserPartNumber" "" (at 82.55 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 91aa758e-f00a-4748-8f78-bed612191623))
-    (pin "2" (uuid 7b292c80-b02b-4944-9c09-b23b48bb19aa))
+    (pin "1" (uuid 70b7a296-3656-49c0-8875-ec8edf80f780))
+    (pin "2" (uuid 997ba64a-6b44-4961-b973-74887924615a))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10866,8 +10866,8 @@
     (property "MouserPartNumber" "" (at 231.14 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 89195373-77bd-48b5-b0a8-f84fe29c1080))
-    (pin "2" (uuid 032f2c96-b877-49c4-9c6e-c2bf28633683))
+    (pin "1" (uuid 0a8cc397-2e60-4fd8-b7be-9e023273874b))
+    (pin "2" (uuid d7230f88-7a87-4d83-86d7-f0312d7fc548))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10907,8 +10907,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 96.52 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 782004a1-52a5-43fa-9f6d-06afe0c3a52f))
-    (pin "2" (uuid e7cace7a-1f71-46a0-8dc1-28d38d6f7e88))
+    (pin "1" (uuid 0f7d717a-aaf7-44f8-9440-3b8b5d133a87))
+    (pin "2" (uuid d580c952-bdd3-4b50-807c-034fa7a0b494))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10939,8 +10939,8 @@
     (property "MouserPartNumber" "" (at 158.75 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8e328f03-6775-4867-ae73-a55f0b3c070d))
-    (pin "2" (uuid cd575c08-268c-4da8-8660-5c5c8124de34))
+    (pin "1" (uuid 135016c3-617c-4b12-8409-f68586809274))
+    (pin "2" (uuid be6e1518-e94b-4b96-b01f-907561813030))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -10971,8 +10971,8 @@
     (property "MouserPartNumber" "" (at 105.41 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 60cf51b9-c038-4209-81b1-70dc54f0dcfc))
-    (pin "2" (uuid 5d042fd3-f022-4cd0-9cef-f2c51aafa630))
+    (pin "1" (uuid 776fa247-1db3-4132-aff7-8cfc254bc875))
+    (pin "2" (uuid 22e4e3d0-13dd-4196-888d-e66029c9c22d))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11012,8 +11012,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 222.25 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 77d002e6-0816-415f-882a-81366d4ac87f))
-    (pin "2" (uuid f9a414a1-8070-46a2-8718-5bdb78a731b6))
+    (pin "1" (uuid 44906ece-1555-4ef9-b82d-52c53282cddf))
+    (pin "2" (uuid 1450b6c3-90b0-4afd-ad23-119b0a5d2f47))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11044,8 +11044,8 @@
     (property "MouserPartNumber" "" (at 271.78 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 12c0750a-55e0-4824-be2c-c84c2b3ae5f8))
-    (pin "2" (uuid 2a7d08f0-c205-4640-8b74-edbfa8b125bb))
+    (pin "1" (uuid a76b24ed-9d44-4b66-b883-b37e8301a71d))
+    (pin "2" (uuid 98d19846-bf25-46b5-b6ba-d83d62063ca5))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11079,8 +11079,8 @@
     (property "MouserPartNumber" "603-CC805JRNPO9BN220" (at 309.88 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 130545bb-239a-4572-b781-262370c110dc))
-    (pin "2" (uuid bbc25d85-d712-416c-9794-ad17190529e5))
+    (pin "1" (uuid 1d0b8db7-6208-4f7d-9366-81f8d8c3288c))
+    (pin "2" (uuid 38b0b6a2-03b2-4ea1-a266-cfd4ac4fdec7))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11111,8 +11111,8 @@
     (property "MouserPartNumber" "" (at 120.65 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 00acd122-8b9b-474d-96eb-27865a6102de))
-    (pin "2" (uuid 53f4a162-811b-415f-887c-e346cce7f9a7))
+    (pin "1" (uuid b3820c92-7f31-4b56-bda1-3789cfae27af))
+    (pin "2" (uuid 1e9f2953-f8e9-4667-867d-1ffa98dbdb84))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11143,8 +11143,8 @@
     (property "MouserPartNumber" "" (at 82.55 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2e6a444d-da1b-474c-9cb1-f009b91ea63d))
-    (pin "2" (uuid 6f7f8ca1-1b2d-4568-a49b-d868c02d16de))
+    (pin "1" (uuid 74c1fe5b-d10d-4341-a8ea-55682ca587b2))
+    (pin "2" (uuid 8c9abaf2-796d-4a4a-af83-ff1923aac0c8))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11175,8 +11175,8 @@
     (property "MouserPartNumber" "" (at 147.32 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8677a083-ec1f-4ab3-a402-558e4bff92d9))
-    (pin "2" (uuid 6ac7e44e-d807-4cf0-bce5-3e29f04c0f90))
+    (pin "1" (uuid 405c69af-7a7f-46b8-abce-a5f1193d3425))
+    (pin "2" (uuid 0f61843b-45d9-43f5-9c84-b25658c70225))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11216,8 +11216,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 96.52 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3d265d5b-e4a6-465c-a4ff-f2332ba1cbd5))
-    (pin "2" (uuid bbd26be1-6dd4-4ac6-847b-4685b662a4a7))
+    (pin "1" (uuid c0e794ec-5123-465d-8583-d2ca22a6e0ec))
+    (pin "2" (uuid 62c45db3-72ff-4919-beec-90f1c4330e6e))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
@@ -11257,8 +11257,8 @@
     (property "MouserPartNumber" "833-1N4148W-TP" (at 107.95 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b72fb30-e5b8-4788-9d5d-242c5149b03f))
-    (pin "2" (uuid 86f0af96-a205-453a-aadf-646ef0ef4099))
+    (pin "1" (uuid fa7a6627-ac8c-4145-971d-d52781ff78af))
+    (pin "2" (uuid 1d0338b4-cc79-4151-8c1e-954934aaab06))
     (instances
       (project "VesselV2"
         (path "/c445c6d8-4fde-4143-815a-ac483f9e4cc3"
