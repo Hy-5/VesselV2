@@ -8890,7 +8890,7 @@
     (property "Value" "MX_stab" (at 256.54 237.363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u" (at 250.19 236.22 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_ISO" (at 250.19 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 250.19 236.22 0)
