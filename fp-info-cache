@@ -1,330 +1,421 @@
-79791264525031
-PCM_marbastlib-mx
-LED_MX_3mm
-Add-on for regular MX-footprints with 3mm LED
-cherry MX 3mm led backlight
+101851296923088
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB
+Cherry MX keyswitch PCB Mount
+Cherry MX Keyboard Keyswitch Switch PCB Cutout
 0
 2
 2
-PCM_marbastlib-mx
-LED_MX_3mm-ROT
-Add-on for regular MX-footprints with 3mm LED
-cherry MX 3mm led backlight
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.00u
+Cherry MX keyswitch PCB Mount Keycap 1.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
 0
 2
 2
-PCM_marbastlib-mx
-LED_MX_6028R
-Add-on for regular MX-footprints with 6028 reverse mount LED
-cherry MX 6028 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-mx
-LED_MX_6028R-ROT
-Add-on for regular MX-footprints with 6028 reverse mount LED
-cherry MX 6028 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-mx
-STAB_MX_2.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_2.75u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_2u
-Footprint for Cherry Clip/Screw in type stabilizers, 2u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_3u
-Footprint for Cherry Clip/Screw in type stabilizers, 3u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_4.5u
-Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_4u
-Footprint for Cherry Clip/Screw in type stabilizers, 4u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_5u
-Footprint for Cherry Clip/Screw in type stabilizers, 5u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_6.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_6u
-Footprint for Cherry Clip/Screw in type stabilizers, 6u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_7u
-Footprint for Cherry Clip/Screw in type stabilizers, 7u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_8u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_9u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_10u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_ISO
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_ISO-ROT
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_P_2.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_2.75u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_2u
-Footprint for Cherry Clip/Screw in type stabilizers, 2u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_3u
-Footprint for Cherry Clip/Screw in type stabilizers, 3u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_4.5u
-Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_4u
-Footprint for Cherry Clip/Screw in type stabilizers, 4u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_5u
-Footprint for Cherry Clip/Screw in type stabilizers, 5u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_6.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_6u
-Footprint for Cherry Clip/Screw in type stabilizers, 6u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_7u
-Footprint for Cherry Clip/Screw in type stabilizers, 7u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_8u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_9u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_10u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-4
-0
-PCM_marbastlib-mx
-STAB_MX_P_ISO
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_ISO-ROT
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-2
-0
-PCM_marbastlib-mx
-SW_MX_1.5u
-Footprint for Cherry MX style switches
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u
+Cherry MX keyswitch PCB Mount Keycap 1.25u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u
 0
 2
 2
-PCM_marbastlib-mx
-SW_MX_1.25u
-Footprint for Cherry MX style switches
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u_90deg
+Cherry MX keyswitch PCB Mount Keycap 1.25u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u 90deg
 0
 2
 2
-PCM_marbastlib-mx
-SW_MX_1.75u
-Footprint for Cherry MX style switches
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u
+Cherry MX keyswitch PCB Mount Keycap 1.50u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u
 0
 2
 2
-PCM_marbastlib-mx
-SW_MX_1.75u_STP_1.5
-Footprint for Cherry MX style switches
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u_90deg
+Cherry MX keyswitch PCB Mount Keycap 1.50u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u 90deg
 0
 2
 2
-PCM_marbastlib-mx
-SW_MX_1.75u_STP_1.25
-Footprint for Cherry MX style switches
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u
+Cherry MX keyswitch PCB Mount Keycap 1.75u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u
 0
 2
 2
-PCM_marbastlib-mx
-SW_MX_1u
-Footprint for Cherry MX style switches
-cherry mx switch
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u_90deg
+Cherry MX keyswitch PCB Mount Keycap 1.75u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u 90deg
 0
 2
 2
-PCM_marbastlib-mx
-SW_MX_HS_1.5u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u
+Cherry MX keyswitch PCB Mount Keycap 2.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u
 0
-6
 2
-PCM_marbastlib-mx
-SW_MX_HS_1.25u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
 2
-PCM_marbastlib-mx
-SW_MX_HS_1.75u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u_90deg
+Cherry MX keyswitch PCB Mount Keycap 2.00u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u 90deg
 0
-6
 2
-PCM_marbastlib-mx
-SW_MX_HS_1.75u_STP_1.5
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
 2
-PCM_marbastlib-mx
-SW_MX_HS_1.75u_STP_1.25
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u
+Cherry MX keyswitch PCB Mount Keycap 2.25u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u
 0
-6
 2
-PCM_marbastlib-mx
-SW_MX_HS_1u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
 2
-PCM_marbastlib-mx
-SW_MX_HS_S_1u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u_90deg
+Cherry MX keyswitch PCB Mount Keycap 2.25u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u 90deg
 0
-6
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u
+Cherry MX keyswitch PCB Mount Keycap 2.50u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u_90deg
+Cherry MX keyswitch PCB Mount Keycap 2.50u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.50u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u
+Cherry MX keyswitch PCB Mount Keycap 2.75u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.75u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u_90deg
+Cherry MX keyswitch PCB Mount Keycap 2.75u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.75u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch PCB Mount Keycap 3.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 3.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u_90deg
+Cherry MX keyswitch PCB Mount Keycap 3.00u 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 3.00u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.00u
+Cherry MX keyswitch PCB Mount Keycap 4.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 4.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.50u
+Cherry MX keyswitch PCB Mount Keycap 4.50u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 4.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_5.50u
+Cherry MX keyswitch PCB Mount Keycap 5.50u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 5.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch PCB Mount Keycap 6.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u_Offset
+Cherry MX keyswitch PCB Mount Keycap 6.00u Offset
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.00u Offset
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.25u
+Cherry MX keyswitch PCB Mount Keycap 6.25u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.25u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.50u
+Cherry MX keyswitch PCB Mount Keycap 6.50u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_7.00u
+Cherry MX keyswitch PCB Mount Keycap 7.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 7.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter
+Cherry MX keyswitch PCB Mount Keycap ISOEnter
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_90deg
+Cherry MX keyswitch PCB Mount Keycap ISOEnter 90deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_180deg
+Cherry MX keyswitch PCB Mount Keycap ISOEnter 180deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 180deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_270deg
+Cherry MX keyswitch PCB Mount Keycap ISOEnter 270deg
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 270deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate
+Cherry MX keyswitch Plate Mount
+Cherry MX Keyboard Keyswitch Switch Plate Cutout
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.00u
+Cherry MX keyswitch Plate Mount Keycap 1.00u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u
+Cherry MX keyswitch Plate Mount Keycap 1.25u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u_90deg
+Cherry MX keyswitch Plate Mount Keycap 1.25u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u
+Cherry MX keyswitch Plate Mount Keycap 1.50u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u_90deg
+Cherry MX keyswitch Plate Mount Keycap 1.50u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u
+Cherry MX keyswitch Plate Mount Keycap 1.75u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u_90deg
+Cherry MX keyswitch Plate Mount Keycap 1.75u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u
+Cherry MX keyswitch Plate Mount Keycap 2.00u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u_90deg
+Cherry MX keyswitch Plate Mount Keycap 2.00u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u
+Cherry MX keyswitch Plate Mount Keycap 2.25u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u_90deg
+Cherry MX keyswitch Plate Mount Keycap 2.25u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u
+Cherry MX keyswitch Plate Mount Keycap 2.50u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u_90deg
+Cherry MX keyswitch Plate Mount Keycap 2.50u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u
+Cherry MX keyswitch Plate Mount Keycap 2.75u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u_90deg
+Cherry MX keyswitch Plate Mount Keycap 2.75u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u
+Cherry MX keyswitch Plate Mount Keycap 3.00u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u_90deg
+Cherry MX keyswitch Plate Mount Keycap 3.00u 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.00u
+Cherry MX keyswitch Plate Mount Keycap 4.00u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.50u
+Cherry MX keyswitch Plate Mount Keycap 4.50u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_5.50u
+Cherry MX keyswitch Plate Mount Keycap 5.50u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 5.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u
+Cherry MX keyswitch Plate Mount Keycap 6.00u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u_Offset
+Cherry MX keyswitch Plate Mount Keycap 6.00u Offset
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u Offset
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.25u
+Cherry MX keyswitch Plate Mount Keycap 6.25u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.25u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.50u
+Cherry MX keyswitch Plate Mount Keycap 6.50u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.50u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_7.00u
+Cherry MX keyswitch Plate Mount Keycap 7.00u
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter
+Cherry MX keyswitch Plate Mount Keycap ISOEnter
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_90deg
+Cherry MX keyswitch Plate Mount Keycap ISOEnter 90deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 90deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_180deg
+Cherry MX keyswitch Plate Mount Keycap ISOEnter 180deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 180deg
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_270deg
+Cherry MX keyswitch Plate Mount Keycap ISOEnter 270deg
+Cherry MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 270deg
+0
+2
 2
